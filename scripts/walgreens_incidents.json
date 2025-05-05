@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Firefighter Activity at Walgreens",
+    "address": "1521 S Wabash Ave, Chicago, Illinois, 60605",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Assaulted Woman at Walgreens",
+    "address": "1489 Airways Blvd, Memphis, Tennessee, 38114",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Three Women Stealing From Walgreens",
+    "address": "1533 E 67th St, Chicago, Illinois, 60637",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Woman Shoplifting at Walgreens",
+    "address": "6315 S Kedzie Ave, Chicago, Illinois, 60629",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Shoplifting at Walgreens",
+    "address": "1931 W Cermak Rd, Chicago, Illinois, 60608",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Two Men Stuffing Cart With Stolen Merchandise at Walgreens",
+    "address": "8620 S Cottage Grove Ave, Chicago, Illinois, 60619",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Five Students in Uniform Stealing From Walgreens",
+    "address": "1533 E 67th St, Chicago, Illinois, 60637",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Woman Stealing Merchandise at Walgreens",
+    "address": "7155 W Foster Pl, Chicago, Illinois, 60656",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Report of Man Disrobing, Pouring Water on Himself at Walgreens Pharmacy Window",
+    "address": "1359 Poplar Ave, Memphis, Tennessee, 38104",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Harassing Customers at Walgreens",
+    "address": "151 N State St, Chicago, Illinois, 60601",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Shoplifting at Walgreens",
+    "address": "1533 E 67th St, Chicago, Illinois, 60637",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Stealing From Freezer Section at Walgreens",
+    "address": "4040 N Cicero Ave, Chicago, Illinois, 60641",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Wanted for Battery, Theft at Walgreens",
+    "address": "740 W Diversey Pkwy, Chicago, Illinois, 60614",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Indecently Exposed Lying on Ground in Walgreens Parking Lot",
+    "address": "S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Firefighter Activity at Walgreens ",
+    "address": "530 W Little York Rd, Houston, Texas, 77091",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Harassing Customers Outside Walgreens",
+    "address": "2301 W Irving Park Rd, Chicago, Illinois, 60618",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Man Pushed Woman at Walgreens",
+    "address": "1539 E 54th St, Chicago, Illinois, 60615",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Report of Man Set Fire Behind Walgreens",
+    "address": "2 N Main St, Memphis, Tennessee, 38103",
+    "latitude": "",
+    "longitude": "",
+    "timestamp_utc": ""
+  },
+  {
+    "title": "Firefighter Activity at Walgreens",
+    "address": "1521 S Wabash Ave, Chicago, Illinois, 60605",
+    "latitude": 41.861348,
+    "longitude": -87.625656,
+    "timestamp_utc": "2025-04-29T02:59:44"
+  },
+  {
+    "title": "Man Assaulted Woman at Walgreens",
+    "address": "1489 Airways Blvd, Memphis, Tennessee, 38114",
+    "latitude": 35.104969,
+    "longitude": -89.985845,
+    "timestamp_utc": "2025-04-29T02:10:08"
+  },
+  {
+    "title": "Three Women Stealing From Walgreens",
+    "address": "1533 E 67th St, Chicago, Illinois, 60637",
+    "latitude": 41.773277,
+    "longitude": -87.587812,
+    "timestamp_utc": "2025-04-29T01:32:17"
+  },
+  {
+    "title": "Woman Shoplifting at Walgreens",
+    "address": "6315 S Kedzie Ave, Chicago, Illinois, 60629",
+    "latitude": 41.778383,
+    "longitude": -87.703099,
+    "timestamp_utc": "2025-04-29T01:01:23"
+  },
+  {
+    "title": "Man Shoplifting at Walgreens",
+    "address": "1931 W Cermak Rd, Chicago, Illinois, 60608",
+    "latitude": 41.852201,
+    "longitude": -87.674549,
+    "timestamp_utc": "2025-04-29T00:55:57"
+  },
+  {
+    "title": "Two Men Stuffing Cart With Stolen Merchandise at Walgreens",
+    "address": "8620 S Cottage Grove Ave, Chicago, Illinois, 60619",
+    "latitude": 41.738074,
+    "longitude": -87.605029,
+    "timestamp_utc": "2025-04-28T23:20:56"
+  },
+  {
+    "title": "Five Students in Uniform Stealing From Walgreens",
+    "address": "1533 E 67th St, Chicago, Illinois, 60637",
+    "latitude": 41.773277,
+    "longitude": -87.587812,
+    "timestamp_utc": "2025-04-28T22:23:06"
+  },
+  {
+    "title": "Woman Stealing Merchandise at Walgreens",
+    "address": "7155 W Foster Pl, Chicago, Illinois, 60656",
+    "latitude": 41.974717,
+    "longitude": -87.806375,
+    "timestamp_utc": "2025-04-28T19:23:26"
+  },
+  {
+    "title": "Report of Man Disrobing, Pouring Water on Himself at Walgreens Pharmacy Window",
+    "address": "1359 Poplar Ave, Memphis, Tennessee, 38104",
+    "latitude": 35.143364013705,
+    "longitude": -90.015112026602,
+    "timestamp_utc": "2025-04-28T19:17:14"
+  },
+  {
+    "title": "Man Harassing Customers at Walgreens",
+    "address": "151 N State St, Chicago, Illinois, 60601",
+    "latitude": 41.884827,
+    "longitude": -87.627805,
+    "timestamp_utc": "2025-04-28T18:40:13"
+  },
+  {
+    "title": "Man Shoplifting at Walgreens",
+    "address": "1533 E 67th St, Chicago, Illinois, 60637",
+    "latitude": 41.773075005865,
+    "longitude": -87.587810013251,
+    "timestamp_utc": "2025-04-28T18:37:23"
+  },
+  {
+    "title": "Man Stealing From Freezer Section at Walgreens",
+    "address": "4040 N Cicero Ave, Chicago, Illinois, 60641",
+    "latitude": 41.954719,
+    "longitude": -87.747415,
+    "timestamp_utc": "2025-04-28T18:32:02"
+  },
+  {
+    "title": "Man Wanted for Battery, Theft at Walgreens",
+    "address": "740 W Diversey Pkwy, Chicago, Illinois, 60614",
+    "latitude": 41.932795,
+    "longitude": -87.648116,
+    "timestamp_utc": "2025-04-28T17:25:17"
+  },
+  {
+    "title": "Man Indecently Exposed Lying on Ground in Walgreens Parking Lot",
+    "address": "S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632",
+    "latitude": 41.814169004473,
+    "longitude": -87.704205982249,
+    "timestamp_utc": "2025-04-28T17:11:41"
+  },
+  {
+    "title": "Firefighter Activity at Walgreens ",
+    "address": "530 W Little York Rd, Houston, Texas, 77091",
+    "latitude": 29.86999,
+    "longitude": -95.409204,
+    "timestamp_utc": "2025-04-28T16:00:24"
+  },
+  {
+    "title": "Man Harassing Customers Outside Walgreens",
+    "address": "2301 W Irving Park Rd, Chicago, Illinois, 60618",
+    "latitude": 41.953991,
+    "longitude": -87.686257,
+    "timestamp_utc": "2025-04-28T15:34:24"
+  },
+  {
+    "title": "Man Pushed Woman at Walgreens",
+    "address": "1539 E 54th St, Chicago, Illinois, 60615",
+    "latitude": 41.798067,
+    "longitude": -87.587616,
+    "timestamp_utc": "2025-04-28T15:00:42"
+  },
+  {
+    "title": "Report of Man Set Fire Behind Walgreens",
+    "address": "2 N Main St, Memphis, Tennessee, 38103",
+    "latitude": 35.145415,
+    "longitude": -90.052689,
+    "timestamp_utc": "2025-04-28T14:46:59"
+  }
+]

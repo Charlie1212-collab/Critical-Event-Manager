@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Walgreens News</title>
+    <link rel="stylesheet" href="./walgreens-news.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Walgreens Crime News</h1>
+        </header>
+        <div class="menu" style="display: flex; justify-content: space-around; background: #1e1e1e; padding: 10px;">
+            <p onclick="window.location.href='index.html'">Home</p>
+            <p onclick="window.location.href='walgreens-news.html'">Walgreens News</p>
+            <p onclick="window.location.href='weather-radar.html'">Weather Radar</p>
+            <p onclick="window.location.href='walgreens-crime-incidents.html'">Crime Incidents</p>
+            <p onclick="window.location.href='walgreens-videos.html'">Videos</p>
+        </div>
+        <main class="main-content">
+            <div class="filter-container">
+                <label for="filter-dropdown">Filter by Category:</label>
+                <select id="filter-dropdown" class="filter-dropdown">
+                    <option value="all">All</option>
+                    <option value="robbery">Robbery</option>
+                    <option value="suspicious">Suspicious Activity</option>
+                    <option value="theft">Theft</option>
+                    <option value="drug">Drug-related</option>
+                </select>
+                <label for="sort-dropdown">Sort by Date:</label>
+                <select id="sort-dropdown" class="sort-dropdown">
+                    <option value="newest">Newest First</option>
+                    <option value="oldest">Oldest First</option>
+                </select>
+            </div>
+            <div id="news-articles" class="news-articles">
+                <!-- News articles will be dynamically loaded here -->
+            </div>
+        </main>
+    </div>
+    <script src="./walgreens-news.js"></script>
+</body>
+
+</html>

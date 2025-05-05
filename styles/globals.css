@@ -1,0 +1,335 @@
+/* This file uses Tailwind CSS directives: https://tailwindcss.com/docs/functions-and-directives */
+/* stylelint-disable-next-line at-rule-no-unknown */
+@tailwind base;
+/* stylelint-disable-next-line at-rule-no-unknown */
+@tailwind components;
+/* stylelint-disable-next-line at-rule-no-unknown */
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Light theme (default) */
+  --background: 0 0% 100%;
+  --foreground: 240 10% 3.9%;
+
+  --card: 0 0% 98%;
+  --card-foreground: 240 10% 3.9%;
+
+  --popover: 0 0% 98%;
+  --popover-foreground: 240 10% 3.9%;
+
+  --primary: 265 89% 70%;
+  --primary-foreground: 0 0% 98%;
+
+  --secondary: 240 4.8% 95.9%;
+  --secondary-foreground: 240 5.9% 10%;
+
+  --muted: 240 4.8% 95.9%;
+  --muted-foreground: 240 3.8% 46.1%;
+
+  --accent: 190 80% 50%;
+  --accent-foreground: 240 5.9% 10%;
+
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 98%;
+
+  --border: 240 5.9% 90%;
+  --input: 240 5.9% 90%;
+  --ring: 265 89% 70%;
+
+  --radius: 0.75rem;
+
+  /* Custom application colors - light theme */
+  --color-crime: 350 80% 55%;
+  --color-weather: 190 80% 50%;
+  --color-incident: 30 90% 60%;
+  --color-citizen: 265 89% 70%;
+
+  --glass-bg: rgba(255, 255, 255, 0.75);
+  --card-gradient-start: rgba(245, 245, 255, 0.8);
+  --card-gradient-end: rgba(235, 235, 250, 0.9);
+}
+
+[data-theme='dark'] {
+  --background: 0 0% 0%;
+  /* Pure black background */
+  --foreground: 0 0% 100%;
+  /* Pure white text */
+
+  --card: 0 0% 5%;
+  /* Near-black card background */
+  --card-foreground: 0 0% 100%;
+  /* White text on cards */
+
+  --popover: 0 0% 5%;
+  /* Near-black popover */
+  --popover-foreground: 0 0% 100%;
+  /* White text on popovers */
+
+  --primary: 265 89% 65%;
+  /* Keep primary color */
+  --primary-foreground: 0 0% 100%;
+  /* White on primary */
+
+  --secondary: 0 0% 10%;
+  /* Very dark secondary */
+  --secondary-foreground: 0 0% 100%;
+  /* White on secondary */
+
+  --muted: 0 0% 10%;
+  /* Very dark muted */
+  --muted-foreground: 0 0% 80%;
+  /* Light gray for muted text */
+
+  --accent: 190 80% 55%;
+  /* Keep accent color */
+  --accent-foreground: 0 0% 100%;
+  /* White on accent */
+
+  --destructive: 0 84% 60%;
+  /* Keep destructive color */
+  --destructive-foreground: 0 0% 100%;
+  /* White text on destructive */
+
+  --border: 0 0% 15%;
+  /* Very dark border */
+  --input: 0 0% 15%;
+  /* Very dark input */
+  --ring: 265 89% 70%;
+  /* Keep ring color */
+
+  /* Custom application colors - dark theme */
+  --color-crime: 350 80% 55%;
+  --color-weather: 190 80% 55%;
+  --color-incident: 30 90% 60%;
+  --color-citizen: 265 89% 70%;
+
+  --glass-bg: rgba(0, 0, 0, 0.85);
+  /* Black glass background with opacity */
+  --card-gradient-start: rgba(10, 10, 10, 0.6);
+  /* Near-black gradient start */
+  --card-gradient-end: rgba(0, 0, 0, 0.7);
+  /* Pure black gradient end */
+
+  --scrollbar-track: 0 0% 5%;
+  /* Near-black scrollbar track */
+  --scrollbar-thumb: 0 0% 20%;
+  /* Dark gray scrollbar thumb */
+  --scrollbar-thumb-hover: 0 0% 30%;
+  /* Medium gray scrollbar thumb hover */
+}
+
+/* Global styles */
+html {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+body {
+  color: rgb(var(--foreground));
+  background: rgb(var(--background));
+}
+
+/* Apply blur effect to modals and glass UI */
+.glass-morphism {
+  backdrop-filter: blur(15px);
+  background: var(--glass-bg);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.15), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+}
+
+.card-gradient {
+  background: linear-gradient(to bottom, var(--card-gradient-start), var(--card-gradient-end));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.15), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+}
+
+.status-glow {
+  box-shadow: 0 0 15px 2px rgba(var(--color), 0.4);
+}
+
+/* Crime status glow element - pre-configured with crime color */
+.crime-status-glow {
+  box-shadow: 0 0 15px 2px rgba(108, 2, 2, 0.4);
+  --color: '0, 84%, 60%';
+}
+
+/* Map styles */
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.leaflet-control {
+  z-index: 15;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+:root {
+  --scrollbar-track: 240 10% 95%;
+  --scrollbar-thumb: 240 10% 80%;
+  --scrollbar-thumb-hover: 240 10% 70%;
+}
+
+[data-theme='dark'] {
+  --scrollbar-track: 0 0% 5%;
+  /* Near-black scrollbar track */
+  --scrollbar-thumb: 0 0% 20%;
+  /* Dark gray scrollbar thumb */
+  --scrollbar-thumb-hover: 0 0% 30%;
+  /* Medium gray scrollbar thumb hover */
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--scrollbar-track));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--scrollbar-thumb));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--scrollbar-thumb-hover));
+}
+
+/* Animation utilities */
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-pulse-slow {
+  animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.text-shadow {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+/* Icons glow effect for alerts */
+.alert-icon-glow {
+  filter: drop-shadow(0 0 5px currentColor);
+}
+
+/* Button hover effects */
+.btn-hover-effect {
+  transition: all 0.2s ease;
+}
+
+.btn-hover-effect:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+/* Inner highlight for buttons and cards */
+.inner-highlight {
+  box-shadow: inset 0 1px 0 0 rgba(255, 255, 255, 0.05);
+}
+
+/* Gradient text */
+.gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+/* Dot indicators */
+.dot-indicator {
+  position: relative;
+}
+
+.dot-indicator::before {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: currentColor;
+  left: -12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Modern toggle switch */
+.toggle-switch input[type="checkbox"] {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+  position: absolute;
+}
+
+.toggle-switch label {
+  cursor: pointer;
+  width: 50px;
+  height: 25px;
+  background: hsl(217, 33%, 15%);
+  /* Darker background for toggle switch */
+  display: block;
+  border-radius: 25px;
+  position: relative;
+}
+
+.toggle-switch label:after {
+  content: '';
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 19px;
+  height: 19px;
+  background: #fff;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+.toggle-switch input:checked+label {
+  background: hsl(220, 4%, 10%);
+  /* Darker background for checked toggle switch */
+}
+
+.toggle-switch input:checked+label:after {
+  left: calc(100% - 3px);
+  transform: translateX(-100%);
+}

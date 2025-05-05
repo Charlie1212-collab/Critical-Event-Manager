@@ -1,0 +1,178 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Incident model for storing all types of incidents
+model Incident {
+  id           Int       @id @default(autoincrement())
+  title        String
+  description  String    @db.Text
+  location     String
+  coordinates  Json? // Stores latitude and longitude as JSON
+  severity     Int // 1-3 scale: 1=Low, 2=Medium, 3=High
+  incidentType String // "crime", "weather", "citizen", "store"
+  status       String // "active", "resolved", "monitoring"
+  reportedAt   DateTime  @default(now())
+  resolvedAt   DateTime?
+  sourceId     String? // ID from the source system (Citizen, GDELT, etc.)
+  sourceSystem String? // "citizen", "gdelt", "inciweb", "internal"
+  storeId      Int?
+  store        Store?    @relation(fields: [storeId], references: [id])
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  // Relations
+  incidentUpdates IncidentUpdate[]
+  responses       IncidentResponse[]
+  assets          IncidentAsset[]
+}
+
+// Updates related to an incident
+model IncidentUpdate {
+  id         Int      @id @default(autoincrement())
+  incidentId Int
+  incident   Incident @relation(fields: [incidentId], references: [id], onDelete: Cascade)
+  message    String   @db.Text
+  status     String? // Optional status update
+  createdBy  String? // User or system that created the update
+  createdAt  DateTime @default(now())
+}
+
+// Responses to incidents
+model IncidentResponse {
+  id           Int      @id @default(autoincrement())
+  incidentId   Int
+  incident     Incident @relation(fields: [incidentId], references: [id], onDelete: Cascade)
+  responseType String // "acknowledged", "dispatched", "completed"
+  responder    String? // Person or team that responded
+  notes        String?  @db.Text
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+// Assets related to incidents (images, videos, documents)
+model IncidentAsset {
+  id          Int      @id @default(autoincrement())
+  incidentId  Int
+  incident    Incident @relation(fields: [incidentId], references: [id], onDelete: Cascade)
+  assetType   String // "image", "video", "document"
+  url         String
+  fileName    String?
+  description String?
+  createdAt   DateTime @default(now())
+}
+
+// Weather alerts
+model WeatherAlert {
+  id          Int       @id @default(autoincrement())
+  alertType   String // "hurricane", "tornado", "flood", "thunderstorm", etc.
+  title       String
+  description String    @db.Text
+  severity    String // "advisory", "watch", "warning"
+  area        String
+  coordinates Json? // Affected area coordinates as GeoJSON
+  startTime   DateTime
+  endTime     DateTime?
+  source      String // "noaa", "weather.gov", etc.
+  sourceId    String? // ID from the source system
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  // Relations
+  affectedStores StoreWeatherAlert[]
+}
+
+// Walgreens stores
+model Store {
+  id           Int       @id @default(autoincrement())
+  storeNumber  String    @unique
+  name         String
+  address      String
+  city         String
+  state        String
+  zipCode      String
+  phone        String?
+  latitude     Float?
+  longitude    Float?
+  isActive     Boolean   @default(true)
+  lastIncident DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  // Relations
+  incidents     Incident[]
+  weatherAlerts StoreWeatherAlert[]
+}
+
+// Junction table for stores affected by weather alerts
+model StoreWeatherAlert {
+  id             Int          @id @default(autoincrement())
+  storeId        Int
+  store          Store        @relation(fields: [storeId], references: [id])
+  weatherAlertId Int
+  weatherAlert   WeatherAlert @relation(fields: [weatherAlertId], references: [id])
+  distance       Float? // Distance from alert center in miles/km
+  createdAt      DateTime     @default(now())
+
+  @@unique([storeId, weatherAlertId])
+}
+
+// News articles related to critical events
+model NewsArticle {
+  id          Int      @id @default(autoincrement())
+  title       String
+  content     String   @db.Text
+  source      String // News source name
+  sourceUrl   String // Original article URL
+  publishedAt DateTime
+  relevance   Int? // Relevance score (0-100)
+  category    String? // "national", "walgreens", "general", etc.
+  imageUrl    String? // Featured image URL
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+// User model for authentication
+model User {
+  id           Int       @id @default(autoincrement())
+  email        String    @unique
+  name         String
+  role         String // "admin", "manager", "viewer"
+  passwordHash String
+  lastLogin    DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+}
+
+// System activity logs
+model ActivityLog {
+  id          Int      @id @default(autoincrement())
+  action      String
+  description String   @db.Text
+  userId      Int?
+  ipAddress   String?
+  userAgent   String?
+  createdAt   DateTime @default(now())
+}
+
+// Cache for external data sources
+model DataCache {
+  id        Int      @id @default(autoincrement())
+  source    String // "gdelt", "inciweb", "citizen", etc.
+  key       String // Unique identifier for the cached data
+  data      Json // The cached data
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([source, key])
+}

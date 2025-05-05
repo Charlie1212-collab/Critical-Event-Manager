@@ -1,0 +1,17 @@
+{
+    "css.validate": false,
+    "less.validate": false,
+    "scss.validate": false,
+    "stylelint.validate": [
+        "css",
+        "scss",
+        "postcss"
+    ],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.stylelint": "explicit"
+    },
+    "git.ignoreLimitWarning": true,
+    "image-manager.appearance.primaryColor": "#0078d4",
+    "image-manager.appearance.language": "en"
+}

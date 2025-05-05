@@ -1,0 +1,857 @@
+{
+    "log": {
+      "version": "1.2",
+      "creator": {
+        "name": "WebInspector",
+        "version": "537.36"
+      },
+      "pages": [],
+      "entries": [
+        {
+          "_connectionId": "20216",
+          "_initiator": {
+            "type": "script",
+            "stack": {
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "21",
+                  "url": "https://citizen.com/_next/static/chunks/3201aac917b8c26c10b997af21cf740e87dac180.fef70b281096533edcba.js",
+                  "lineNumber": 0,
+                  "columnNumber": 10831
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1316
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1104
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1745
+                },
+                {
+                  "functionName": "n",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116400
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116603
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116662
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116543
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "21",
+                  "url": "https://citizen.com/_next/static/chunks/3201aac917b8c26c10b997af21cf740e87dac180.fef70b281096533edcba.js",
+                  "lineNumber": 0,
+                  "columnNumber": 11094
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "69",
+                  "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                  "lineNumber": 0,
+                  "columnNumber": 65528
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1316
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1104
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1745
+                },
+                {
+                  "functionName": "n",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116400
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116603
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116662
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116543
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "69",
+                  "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                  "lineNumber": 0,
+                  "columnNumber": 66246
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "69",
+                  "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                  "lineNumber": 0,
+                  "columnNumber": 66986
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1316
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1104
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1745
+                },
+                {
+                  "functionName": "n",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116400
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116603
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116662
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116543
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "69",
+                  "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                  "lineNumber": 0,
+                  "columnNumber": 67066
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "69",
+                  "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                  "lineNumber": 0,
+                  "columnNumber": 31385
+                },
+                {
+                  "functionName": "_",
+                  "scriptId": "14",
+                  "url": "https://citizen.com/_next/static/chunks/29107295.4407cd8345e4582fd471.js",
+                  "lineNumber": 0,
+                  "columnNumber": 42934
+                },
+                {
+                  "functionName": "d",
+                  "scriptId": "14",
+                  "url": "https://citizen.com/_next/static/chunks/29107295.4407cd8345e4582fd471.js",
+                  "lineNumber": 0,
+                  "columnNumber": 43141
+                },
+                {
+                  "functionName": "y",
+                  "scriptId": "14",
+                  "url": "https://citizen.com/_next/static/chunks/29107295.4407cd8345e4582fd471.js",
+                  "lineNumber": 0,
+                  "columnNumber": 43043
+                }
+              ]
+            }
+          },
+          "_priority": "High",
+          "_resourceType": "fetch",
+          "cache": {},
+          "connection": "443",
+          "request": {
+            "method": "GET",
+            "url": "https://citizen.com/api/incident/search?insideBoundingBox[0]=28.073656098964477&insideBoundingBox[1]=-111.65042497766979&insideBoundingBox[2]=45.96975505858805&insideBoundingBox[3]=-79.31725386895175&limit=20&q=walgreens&",
+            "httpVersion": "http/2.0",
+            "headers": [
+              {
+                "name": ":authority",
+                "value": "citizen.com"
+              },
+              {
+                "name": ":method",
+                "value": "GET"
+              },
+              {
+                "name": ":path",
+                "value": "/api/incident/search?insideBoundingBox[0]=28.073656098964477&insideBoundingBox[1]=-111.65042497766979&insideBoundingBox[2]=45.96975505858805&insideBoundingBox[3]=-79.31725386895175&limit=20&q=walgreens&"
+              },
+              {
+                "name": ":scheme",
+                "value": "https"
+              },
+              {
+                "name": "accept",
+                "value": "*/*"
+              },
+              {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+              },
+              {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+              },
+              {
+                "name": "cache-control",
+                "value": "no-cache"
+              },
+              {
+                "name": "pragma",
+                "value": "no-cache"
+              },
+              {
+                "name": "priority",
+                "value": "u=1, i"
+              },
+              {
+                "name": "referer",
+                "value": "https://citizen.com/explore?q=walgreens"
+              },
+              {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""
+              },
+              {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+              },
+              {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+              },
+              {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+              },
+              {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+              },
+              {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+              }
+            ],
+            "queryString": [
+              {
+                "name": "insideBoundingBox[0]",
+                "value": "28.073656098964477"
+              },
+              {
+                "name": "insideBoundingBox[1]",
+                "value": "-111.65042497766979"
+              },
+              {
+                "name": "insideBoundingBox[2]",
+                "value": "45.96975505858805"
+              },
+              {
+                "name": "insideBoundingBox[3]",
+                "value": "-79.31725386895175"
+              },
+              {
+                "name": "limit",
+                "value": "20"
+              },
+              {
+                "name": "q",
+                "value": "walgreens"
+              },
+              {
+                "name": "",
+                "value": ""
+              }
+            ],
+            "cookies": [],
+            "headersSize": -1,
+            "bodySize": 0
+          },
+          "response": {
+            "status": 200,
+            "statusText": "",
+            "httpVersion": "http/2.0",
+            "headers": [
+              {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+              },
+              {
+                "name": "content-encoding",
+                "value": "gzip"
+              },
+              {
+                "name": "content-type",
+                "value": "application/json; charset=utf-8"
+              },
+              {
+                "name": "date",
+                "value": "Tue, 29 Apr 2025 03:01:45 GMT"
+              },
+              {
+                "name": "etag",
+                "value": "W/\"b810-55gIhLo+VxHUNDycqmH03zNTVwI\""
+              },
+              {
+                "name": "server",
+                "value": "nginx/1.21.6"
+              },
+              {
+                "name": "vary",
+                "value": "Origin, Accept-Encoding"
+              },
+              {
+                "name": "via",
+                "value": "1.1 google"
+              },
+              {
+                "name": "x-cloud-trace-context",
+                "value": "da178b0282baeca16cd805844846c98a/40489136278513970;o=1"
+              },
+              {
+                "name": "x-powered-by",
+                "value": "Express"
+              },
+              {
+                "name": "x-proxy-cache",
+                "value": "MISS"
+              }
+            ],
+            "cookies": [],
+            "content": {
+              "size": 47120,
+              "mimeType": "application/json",
+              "text": "{\"hits\":[{\"neighborhood\":\"\",\"ranking.views\":0,\"objectID\":\"-OOzUHMAV3G0VldRurxw\",\"city_code\":\"us-il-chicago\",\"address\":\"1521 S Wabash Ave, Chicago, Illinois, 60605\",\"title\":\"Firefighter Activity at Walgreens\",\"location\":\"1521 S Wabash Ave\",\"categories\":[\"Fire / EMS Activity\"],\"severity\":\"yellow\",\"_geoloc\":[{\"lat\":41.861348,\"lng\":-87.625656}],\"updates\":[{\"created_at\":1745895583999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1521 S Wabash Ave.\"},{\"created_at\":1745895584000,\"text\":\"Firefighters are on scene investigating an automatic alarm at Walgreens.\"}],\"updated_at\":1745895630000,\"ranking.level\":0,\"ranking.has_video\":false,\"ranking.notifications\":0,\"_highlightResult\":{\"created_at\":{\"value\":\"1745895584000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745895630000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Firefighter Activity at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1521 S Wabash Ave, Chicago, Illinois, 60605\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1521 S Wabash Ave\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Fire / EMS Activity\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.861348\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.625656\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745895583999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1521 S Wabash Ave.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745895584000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Firefighters are on scene investigating an automatic alarm at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"created_at\":1745895584000},{\"ranking.notifications\":0,\"objectID\":\"-OOzIxKEAxuPhaafsYVe\",\"_geoloc\":[{\"lat\":35.104969,\"lng\":-89.985845}],\"updates\":[{\"created_at\":1745892607999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1489 Airways Blvd.\"},{\"created_at\":1745892608000,\"text\":\"Police have received a report of a man who assaulted a woman at Walgreens.\"}],\"_highlightResult\":{\"created_at\":{\"value\":\"1745892608000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745892660000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Assaulted Woman at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1489 Airways Blvd, Memphis, Tennessee, 38114\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-tn-memphis\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1489 Airways Blvd\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Assault / Fight\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"1\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"35.104969\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-89.985845\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745892607999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1489 Airways Blvd.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745892608000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police have received a report of a man who assaulted a woman at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"neighborhood\":\"\",\"ranking.level\":1,\"ranking.views\":0,\"severity\":\"yellow\",\"updated_at\":1745892660000,\"address\":\"1489 Airways Blvd, Memphis, Tennessee, 38114\",\"location\":\"1489 Airways Blvd\",\"ranking.has_video\":false,\"created_at\":1745892608000,\"title\":\"Man Assaulted Woman at Walgreens\",\"city_code\":\"us-tn-memphis\",\"categories\":[\"Assault / Fight\"]},{\"updated_at\":1745891559000,\"title\":\"Theft Reported\",\"city_code\":\"us-wi-milwaukee\",\"categories\":[\"Robbery / Theft\"],\"location\":\"Walgreens\",\"neighborhood\":\"Grasslyn Manor, Milwaukee\",\"ranking.views\":0,\"objectID\":\"-OOzEkZS3t1NlXjpLkp9\",\"ranking.has_video\":false,\"_highlightResult\":{\"created_at\":{\"value\":\"1745891560000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745891559000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Theft Reported\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"address\":{\"value\":\"5115 W Capitol Dr, Milwaukee, WI 53216, USA\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-wi-milwaukee\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"<em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":true,\"matchedWords\":[\"walgreens\"]},\"neighborhood\":{\"value\":\"Grasslyn Manor, Milwaukee\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"43.089624\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.978027\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745891560000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a theft.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745891559999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Incident reported at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"_geoloc\":[{\"lat\":43.089624,\"lng\":-87.978027}],\"updates\":[{\"created_at\":1745891560000,\"text\":\"Police are responding to a report of a theft.\"},{\"created_at\":1745891559999,\"text\":\"Incident reported at Walgreens.\"}],\"created_at\":1745891560000,\"address\":\"5115 W Capitol Dr, Milwaukee, WI 53216, USA\",\"ranking.level\":0,\"ranking.notifications\":0,\"severity\":\"yellow\"},{\"severity\":\"yellow\",\"_geoloc\":[{\"lat\":41.773277,\"lng\":-87.587812}],\"title\":\"Three Women Stealing From Walgreens\",\"neighborhood\":\"\",\"categories\":[\"Robbery / Theft\"],\"ranking.level\":0,\"ranking.views\":0,\"ranking.notifications\":0,\"_highlightResult\":{\"created_at\":{\"value\":\"1745890337000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745890350000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Three Women Stealing From <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1533 E 67th St\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.773277\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.587812\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745890336999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745890337000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of three women stealing from <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"created_at\":1745890337000,\"updates\":[{\"created_at\":1745890336999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\"},{\"created_at\":1745890337000,\"text\":\"Police are responding to a report of three women stealing from Walgreens.\"}],\"address\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"city_code\":\"us-il-chicago\",\"location\":\"1533 E 67th St\",\"ranking.has_video\":true,\"objectID\":\"-OOzA8KAGGuRGG7e2gVK\",\"updated_at\":1745890350000},{\"ranking.views\":0,\"objectID\":\"-OOz39VJZ_ElQpAc4UUE\",\"_highlightResult\":{\"created_at\":{\"value\":\"1745888483000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745888520000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Woman Shoplifting at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"6315 S Kedzie Ave, Chicago, Illinois, 60629\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"6315 S Kedzie Ave\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.778383\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.703099\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745888482999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 6315 S Kedzie Ave.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745888483000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a woman shoplifting at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"updated_at\":1745888520000,\"address\":\"6315 S Kedzie Ave, Chicago, Illinois, 60629\",\"categories\":[],\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":41.778383,\"lng\":-87.703099}],\"title\":\"Woman Shoplifting at Walgreens\",\"city_code\":\"us-il-chicago\",\"ranking.level\":0,\"severity\":\"yellow\",\"created_at\":1745888483000,\"location\":\"6315 S Kedzie Ave\",\"updates\":[{\"created_at\":1745888482999,\"text\":\"A 911 caller has reported an unconfirmed incident at 6315 S Kedzie Ave.\"},{\"created_at\":1745888483000,\"text\":\"Police are responding to a report of a woman shoplifting at Walgreens.\"}],\"neighborhood\":\"\",\"ranking.has_video\":false},{\"ranking.views\":0,\"_highlightResult\":{\"created_at\":{\"value\":\"1745888157000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745888190000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Shoplifting at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1931 W Cermak Rd, Chicago, Illinois, 60608\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1931 W Cermak Rd\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.852201\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.674549\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745888156999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1931 W Cermak Rd.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745888157000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police have received a report of a man shoplifting at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"address\":\"1931 W Cermak Rd, Chicago, Illinois, 60608\",\"city_code\":\"us-il-chicago\",\"ranking.level\":0,\"categories\":[],\"_geoloc\":[{\"lat\":41.852201,\"lng\":-87.674549}],\"updated_at\":1745888190000,\"location\":\"1931 W Cermak Rd\",\"neighborhood\":\"\",\"ranking.has_video\":false,\"updates\":[{\"created_at\":1745888156999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1931 W Cermak Rd.\"},{\"created_at\":1745888157000,\"text\":\"Police have received a report of a man shoplifting at Walgreens.\"}],\"severity\":\"yellow\",\"objectID\":\"-OOz1tvbXdOZ3mCYPMqw\",\"created_at\":1745888157000,\"title\":\"Man Shoplifting at Walgreens\",\"ranking.notifications\":0},{\"ranking.level\":0,\"ranking.has_video\":false,\"severity\":\"yellow\",\"updates\":[{\"created_at\":1745882455999,\"text\":\"A 911 caller has reported an unconfirmed incident at 8620 S Cottage Grove Ave.\"},{\"created_at\":1745882456000,\"text\":\"Police are responding to a report of two men stealing merchandise and stuffing them in a cart at Walgreens.\"}],\"objectID\":\"-OOyh9JxeB9yL61tAMw4\",\"updated_at\":1745882490000,\"city_code\":\"us-il-chicago\",\"location\":\"8620 S Cottage Grove Ave\",\"ranking.notifications\":0,\"address\":\"8620 S Cottage Grove Ave, Chicago, Illinois, 60619\",\"neighborhood\":\"\",\"categories\":[\"Robbery / Theft\"],\"ranking.views\":0,\"_geoloc\":[{\"lat\":41.738074,\"lng\":-87.605029}],\"created_at\":1745882456000,\"_highlightResult\":{\"created_at\":{\"value\":\"1745882456000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745882490000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Two Men Stuffing Cart With Stolen Merchandise at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"8620 S Cottage Grove Ave, Chicago, Illinois, 60619\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"8620 S Cottage Grove Ave\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.738074\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.605029\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745882455999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 8620 S Cottage Grove Ave.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745882456000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of two men stealing merchandise and stuffing them in a cart at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"title\":\"Two Men Stuffing Cart With Stolen Merchandise at Walgreens\"},{\"categories\":[\"Robbery / Theft\"],\"objectID\":\"-OOyUslTKPu02rJwIe7B\",\"_geoloc\":[{\"lat\":41.773277,\"lng\":-87.587812}],\"created_at\":1745878986000,\"updated_at\":1745879010000,\"title\":\"Five Students in Uniform Stealing From Walgreens\",\"location\":\"1533 E 67th St\",\"ranking.has_video\":false,\"neighborhood\":\"\",\"ranking.notifications\":0,\"severity\":\"yellow\",\"_highlightResult\":{\"created_at\":{\"value\":\"1745878986000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745879010000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Five Students in Uniform Stealing From <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1533 E 67th St\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.773277\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.587812\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745878985999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745878986000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of five students in uniform stealing from <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"address\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"city_code\":\"us-il-chicago\",\"ranking.level\":0,\"ranking.views\":0,\"updates\":[{\"created_at\":1745878985999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\"},{\"created_at\":1745878986000,\"text\":\"Police are responding to a report of five students in uniform stealing from Walgreens.\"}]},{\"updated_at\":1745871993000,\"ranking.has_video\":false,\"severity\":\"yellow\",\"objectID\":\"-OOy46ZS2xkCx-wSGcc4\",\"_highlightResult\":{\"created_at\":{\"value\":\"1745871993000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745871993000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Theft Reported\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"address\":{\"value\":\"3605 W Wisconsin Ave, Milwaukee, WI 53212, USA\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-wi-milwaukee\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"<em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":true,\"matchedWords\":[\"walgreens\"]},\"neighborhood\":{\"value\":\"Merrill Park, Milwaukee\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"43.039185\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.95866\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745871992999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Incident reported at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}},{\"created_at\":{\"value\":\"1745871993000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a theft.\",\"matchLevel\":\"none\",\"matchedWords\":[]}}]},\"title\":\"Theft Reported\",\"location\":\"Walgreens\",\"ranking.level\":0,\"ranking.views\":0,\"updates\":[{\"created_at\":1745871992999,\"text\":\"Incident reported at Walgreens.\"},{\"created_at\":1745871993000,\"text\":\"Police are responding to a report of a theft.\"}],\"address\":\"3605 W Wisconsin Ave, Milwaukee, WI 53212, USA\",\"city_code\":\"us-wi-milwaukee\",\"categories\":[\"Robbery / Theft\"],\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":43.039185,\"lng\":-87.95866}],\"created_at\":1745871993000,\"neighborhood\":\"Merrill Park, Milwaukee\"},{\"location\":\"7155 W Foster Pl\",\"ranking.level\":0,\"ranking.has_video\":false,\"objectID\":\"-OOxqnMEgtiquoRE9EbO\",\"ranking.views\":0,\"severity\":\"yellow\",\"created_at\":1745868206000,\"title\":\"Woman Stealing Merchandise at Walgreens\",\"address\":\"7155 W Foster Pl, Chicago, Illinois, 60656\",\"city_code\":\"us-il-chicago\",\"categories\":[\"Robbery / Theft\"],\"updated_at\":1745868240000,\"neighborhood\":\"\",\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":41.974717,\"lng\":-87.806375}],\"updates\":[{\"created_at\":1745868205999,\"text\":\"A 911 caller has reported an unconfirmed incident at 7155 W Foster Pl.\"},{\"created_at\":1745868206000,\"text\":\"Police are responding to a report of a woman stealing merchandise at Walgreens.\"}],\"_highlightResult\":{\"created_at\":{\"value\":\"1745868206000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745868240000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Woman Stealing Merchandise at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"7155 W Foster Pl, Chicago, Illinois, 60656\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"7155 W Foster Pl\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.974717\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.806375\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745868205999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 7155 W Foster Pl.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745868206000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a woman stealing merchandise at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]}},{\"objectID\":\"-OOxpF8DKqlPjMQZmBRn\",\"created_at\":1745867834000,\"neighborhood\":\"Memphis\",\"ranking.notifications\":0,\"updates\":[{\"created_at\":1745867834000,\"text\":\"Police received a report of a man disrobing and pouring water on himself at the Walgreens pharmacy drive-thru window.\"},{\"created_at\":1745867833999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1359 Poplar Ave.\"}],\"_geoloc\":[{\"lat\":35.143364013705,\"lng\":-90.015112026602}],\"_highlightResult\":{\"created_at\":{\"value\":\"1745867834000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745867833000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Report of Man Disrobing, Pouring Water on Himself at <em>Walgreens</em> Pharmacy Window\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1359 Poplar Ave, Memphis, Tennessee, 38104\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-tn-memphis\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1359 Poplar Ave\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"Memphis\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Police Related 2\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"35.143364013705\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-90.015112026602\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745867834000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police received a report of a man disrobing and pouring water on himself at the <em>Walgreens</em> pharmacy drive-thru window.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}},{\"created_at\":{\"value\":\"1745867833999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1359 Poplar Ave.\",\"matchLevel\":\"none\",\"matchedWords\":[]}}]},\"title\":\"Report of Man Disrobing, Pouring Water on Himself at Walgreens Pharmacy Window\",\"city_code\":\"us-tn-memphis\",\"ranking.has_video\":false,\"severity\":\"yellow\",\"ranking.level\":0,\"ranking.views\":0,\"updated_at\":1745867833000,\"address\":\"1359 Poplar Ave, Memphis, Tennessee, 38104\",\"location\":\"1359 Poplar Ave\",\"categories\":[\"Police Related 2\"]},{\"address\":\"151 N State St, Chicago, Illinois, 60601\",\"neighborhood\":\"\",\"ranking.has_video\":false,\"updated_at\":1745865630000,\"categories\":[\"Harassment\"],\"ranking.views\":0,\"severity\":\"yellow\",\"title\":\"Man Harassing Customers at Walgreens\",\"location\":\"151 N State St\",\"ranking.notifications\":0,\"_highlightResult\":{\"created_at\":{\"value\":\"1745865613000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745865630000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Harassing Customers at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"151 N State St, Chicago, Illinois, 60601\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"151 N State St\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Harassment\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.884827\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.627805\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745865612999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 151 N State St.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745865613000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a man harassing customers at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"created_at\":1745865613000,\"city_code\":\"us-il-chicago\",\"ranking.level\":0,\"_geoloc\":[{\"lat\":41.884827,\"lng\":-87.627805}],\"updates\":[{\"created_at\":1745865612999,\"text\":\"A 911 caller has reported an unconfirmed incident at 151 N State St.\"},{\"created_at\":1745865613000,\"text\":\"Police are responding to a report of a man harassing customers at Walgreens.\"}],\"objectID\":\"-OOxgq61OcKhdKjPKOwt\"},{\"_geoloc\":[{\"lat\":41.773075005865,\"lng\":-87.587810013251}],\"created_at\":1745865443000,\"ranking.has_video\":false,\"ranking.notifications\":0,\"severity\":\"yellow\",\"objectID\":\"-OOxg7SHq5MgrpAj13AC\",\"_highlightResult\":{\"created_at\":{\"value\":\"1745865443000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745865443000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Shoplifting at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1533 E 67th St\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"Chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.773075005865\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.587810013251\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745865442999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745865443000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a man shoplifting at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"updated_at\":1745865443000,\"title\":\"Man Shoplifting at Walgreens\",\"neighborhood\":\"Chicago\",\"categories\":[\"Robbery / Theft\"],\"city_code\":\"us-il-chicago\",\"ranking.level\":0,\"updates\":[{\"created_at\":1745865442999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\"},{\"created_at\":1745865443000,\"text\":\"Police are responding to a report of a man shoplifting at Walgreens.\"}],\"address\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"location\":\"1533 E 67th St\",\"ranking.views\":0},{\"title\":\"Man Stealing From Freezer Section at Walgreens\",\"neighborhood\":\"\",\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":41.954719,\"lng\":-87.747415}],\"objectID\":\"-OOxf-zaU-MGUhnxy-Bo\",\"created_at\":1745865122000,\"severity\":\"yellow\",\"city_code\":\"us-il-chicago\",\"categories\":[\"Robbery / Theft\"],\"ranking.level\":0,\"ranking.views\":0,\"updates\":[{\"created_at\":1745865121999,\"text\":\"A 911 caller has reported an unconfirmed incident at 4040 N Cicero Ave.\"},{\"created_at\":1745865122000,\"text\":\"Police are responding to a report of a man stealing from the freezer section at Walgreens.\"}],\"_highlightResult\":{\"created_at\":{\"value\":\"1745865122000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745865150000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Stealing From Freezer Section at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"4040 N Cicero Ave, Chicago, Illinois, 60641\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"4040 N Cicero Ave\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Robbery / Theft\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.954719\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.747415\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745865121999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 4040 N Cicero Ave.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745865122000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a man stealing from the freezer section at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"updated_at\":1745865150000,\"location\":\"4040 N Cicero Ave\",\"ranking.has_video\":false,\"address\":\"4040 N Cicero Ave, Chicago, Illinois, 60641\"},{\"location\":\"740 W Diversey Pkwy\",\"updates\":[{\"created_at\":1745861116999,\"text\":\"A 911 caller has reported an unconfirmed incident at 740 W Diversey Pkwy.\"},{\"created_at\":1745861117000,\"text\":\"Police have received a report of a man wanted for battery and theft at the front of Walgreens.\"}],\"title\":\"Man Wanted for Battery, Theft at Walgreens\",\"city_code\":\"us-il-chicago\",\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":41.932795,\"lng\":-87.648116}],\"objectID\":\"-OOxQfZnu-vt5f4hHz9G\",\"address\":\"740 W Diversey Pkwy, Chicago, Illinois, 60614\",\"neighborhood\":\"\",\"severity\":\"yellow\",\"_highlightResult\":{\"created_at\":{\"value\":\"1745861117000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745861130000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Wanted for Battery, Theft at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"740 W Diversey Pkwy, Chicago, Illinois, 60614\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"740 W Diversey Pkwy\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Assault / Fight\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"1\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.932795\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.648116\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745861116999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 740 W Diversey Pkwy.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745861117000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police have received a report of a man wanted for battery and theft at the front of <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"updated_at\":1745861130000,\"categories\":[\"Assault / Fight\"],\"ranking.level\":1,\"ranking.has_video\":false,\"ranking.views\":0,\"created_at\":1745861117000},{\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":41.814169004473,\"lng\":-87.704205982249}],\"address\":\"S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632\",\"city_code\":\"us-il-chicago\",\"ranking.has_video\":false,\"_highlightResult\":{\"created_at\":{\"value\":\"1745860301000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745860301000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Indecently Exposed Lying on Ground in <em>Walgreens</em> Parking Lot\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"S Kedzie Ave & S Archer Ave\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"Brighton Park, Chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Police Related 2\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.814169004473\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.704205982249\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745860300999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at S Kedzie Ave & S Archer Ave.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745860301000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a man lying on the ground and exposing himself in the <em>Walgreens</em> parking lot.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"updated_at\":1745860301000,\"categories\":[\"Police Related 2\"],\"objectID\":\"-OOxNW8JRg5pedRoAnrF\",\"ranking.level\":0,\"severity\":\"yellow\",\"updates\":[{\"created_at\":1745860300999,\"text\":\"A 911 caller has reported an unconfirmed incident at S Kedzie Ave & S Archer Ave.\"},{\"created_at\":1745860301000,\"text\":\"Police are responding to a report of a man lying on the ground and exposing himself in the Walgreens parking lot.\"}],\"neighborhood\":\"Brighton Park, Chicago\",\"ranking.views\":0,\"created_at\":1745860301000,\"title\":\"Man Indecently Exposed Lying on Ground in Walgreens Parking Lot\",\"location\":\"S Kedzie Ave & S Archer Ave\"},{\"created_at\":1745856024000,\"ranking.has_video\":false,\"severity\":\"yellow\",\"updated_at\":1745856060000,\"location\":\"530 W Little York Rd\",\"ranking.views\":0,\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":29.86999,\"lng\":-95.409204}],\"city_code\":\"us-tx-houston\",\"updates\":[{\"created_at\":1745856023999,\"text\":\"A 911 caller has reported an unconfirmed incident at 530 W Little York Rd.\"},{\"created_at\":1745856024000,\"text\":\"Firefighters have received a report of an unknown incident at Walgreens.\"}],\"objectID\":\"-OOx7Ki7oD3nRbZssD1d\",\"title\":\"Firefighter Activity at Walgreens \",\"address\":\"530 W Little York Rd, Houston, Texas, 77091\",\"neighborhood\":\"\",\"categories\":[\"Fire / EMS Activity\"],\"ranking.level\":0,\"_highlightResult\":{\"created_at\":{\"value\":\"1745856024000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745856060000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Firefighter Activity at <em>Walgreens</em> \",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"530 W Little York Rd, Houston, Texas, 77091\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-tx-houston\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"530 W Little York Rd\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Fire / EMS Activity\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"29.86999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-95.409204\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745856023999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 530 W Little York Rd.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745856024000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Firefighters have received a report of an unknown incident at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]}},{\"neighborhood\":\"\",\"categories\":[\"Harassment\"],\"objectID\":\"-OOx1Nq05hV3mhI20M0W\",\"title\":\"Man Harassing Customers Outside Walgreens\",\"location\":\"2301 W Irving Park Rd\",\"_highlightResult\":{\"created_at\":{\"value\":\"1745854464000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745854500000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Harassing Customers Outside <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"2301 W Irving Park Rd, Chicago, Illinois, 60618\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"2301 W Irving Park Rd\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Harassment\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.953991\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.686257\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745854463999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 2301 W Irving Park Rd.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745854464000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a man harassing customers outside <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"created_at\":1745854464000,\"ranking.views\":0,\"ranking.notifications\":0,\"severity\":\"yellow\",\"updates\":[{\"created_at\":1745854463999,\"text\":\"A 911 caller has reported an unconfirmed incident at 2301 W Irving Park Rd.\"},{\"created_at\":1745854464000,\"text\":\"Police are responding to a report of a man harassing customers outside Walgreens.\"}],\"ranking.has_video\":false,\"address\":\"2301 W Irving Park Rd, Chicago, Illinois, 60618\",\"city_code\":\"us-il-chicago\",\"ranking.level\":0,\"_geoloc\":[{\"lat\":41.953991,\"lng\":-87.686257}],\"updated_at\":1745854500000},{\"updated_at\":1745852460000,\"address\":\"1539 E 54th St, Chicago, Illinois, 60615\",\"location\":\"1539 E 54th St\",\"categories\":[\"Assault / Fight\"],\"updates\":[{\"created_at\":1745852441999,\"text\":\"A 911 caller has reported an unconfirmed incident at 1539 E 54th St.\"},{\"created_at\":1745852442000,\"text\":\"Police are responding to a report of a man who pushed a woman at Walgreens.\"}],\"city_code\":\"us-il-chicago\",\"neighborhood\":\"\",\"ranking.level\":1,\"_highlightResult\":{\"created_at\":{\"value\":\"1745852442000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745852460000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Man Pushed Woman at <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"1539 E 54th St, Chicago, Illinois, 60615\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-il-chicago\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"1539 E 54th St\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Assault / Fight\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"1\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"41.798067\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-87.587616\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745852441999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 1539 E 54th St.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745852442000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police are responding to a report of a man who pushed a woman at <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"created_at\":1745852442000,\"ranking.views\":0,\"objectID\":\"-OOwuatAKVnnUYjsU1JL\",\"title\":\"Man Pushed Woman at Walgreens\",\"ranking.has_video\":false,\"ranking.notifications\":0,\"severity\":\"yellow\",\"_geoloc\":[{\"lat\":41.798067,\"lng\":-87.587616}]},{\"city_code\":\"us-tn-memphis\",\"neighborhood\":\"\",\"ranking.has_video\":false,\"_highlightResult\":{\"created_at\":{\"value\":\"1745851619000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"updated_at\":{\"value\":\"1745851680000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"title\":{\"value\":\"Report of Man Set Fire Behind <em>Walgreens</em>\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]},\"address\":{\"value\":\"2 N Main St, Memphis, Tennessee, 38103\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"city_code\":{\"value\":\"us-tn-memphis\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"location\":{\"value\":\"2 N Main St\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"neighborhood\":{\"value\":\"\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"categories\":[{\"value\":\"Fire\",\"matchLevel\":\"none\",\"matchedWords\":[]}],\"ranking.level\":{\"value\":\"1\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.views\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"ranking.notifications\":{\"value\":\"0\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"severity\":{\"value\":\"yellow\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"_geoloc\":[{\"lat\":{\"value\":\"35.145415\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"lng\":{\"value\":\"-90.052689\",\"matchLevel\":\"none\",\"matchedWords\":[]}}],\"updates\":[{\"created_at\":{\"value\":\"1745851618999\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"A 911 caller has reported an unconfirmed incident at 2 N Main St.\",\"matchLevel\":\"none\",\"matchedWords\":[]}},{\"created_at\":{\"value\":\"1745851619000\",\"matchLevel\":\"none\",\"matchedWords\":[]},\"text\":{\"value\":\"Police have received a report of a man who set a fire in the rear of <em>Walgreens</em>.\",\"matchLevel\":\"full\",\"fullyHighlighted\":false,\"matchedWords\":[\"walgreens\"]}}]},\"ranking.notifications\":0,\"_geoloc\":[{\"lat\":35.145415,\"lng\":-90.052689}],\"objectID\":\"-OOwrcLqLi3jHO1kmEEW\",\"created_at\":1745851619000,\"location\":\"2 N Main St\",\"categories\":[\"Fire\"],\"ranking.level\":1,\"ranking.views\":0,\"address\":\"2 N Main St, Memphis, Tennessee, 38103\",\"severity\":\"yellow\",\"updates\":[{\"created_at\":1745851618999,\"text\":\"A 911 caller has reported an unconfirmed incident at 2 N Main St.\"},{\"created_at\":1745851619000,\"text\":\"Police have received a report of a man who set a fire in the rear of Walgreens.\"}],\"updated_at\":1745851680000,\"title\":\"Report of Man Set Fire Behind Walgreens\"}],\"nbHits\":176,\"hitsPerPage\":20,\"page\":0,\"nbPages\":9,\"processingTimeMS\":17,\"processingTimingsMS\":{\"total\":17,\"getIdx\":{\"total\":1,\"load\":{\"total\":1}},\"fetch\":{\"query\":9,\"total\":10},\"_request\":{\"queue\":4}},\"exhaustiveNbHits\":false,\"exhaustiveTypo\":false,\"query\":\"walgreens\",\"params\":\"query=walgreens&facetFilters=%5B%5D&insideBoundingBox=%5B%5B28.073656098964477%2C-111.65042497766979%2C45.96975505858805%2C-79.31725386895175%5D%5D&page=0&hitsPerPage=20&filters=created_at+%3E%3D+1745290905740&x-algolia-agent=Algolia+for+JavaScript+%284.10.5%29%3B+Node.js+%2816.18.0%29\",\"renderingContent\":{},\"exhaustive\":{\"nbHits\":false,\"typo\":false}}"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 5265,
+            "_error": null,
+            "_fetchedViaServiceWorker": false
+          },
+          "serverIPAddress": "34.120.170.164",
+          "startedDateTime": "2025-04-29T03:01:45.988Z",
+          "time": 104.76800000014919,
+          "timings": {
+            "blocked": 3.5440000000418515,
+            "dns": -1,
+            "ssl": -1,
+            "connect": -1,
+            "send": 0.4059999999999997,
+            "wait": 99.23399999955907,
+            "receive": 1.584000000548258,
+            "_blocked_queueing": 0.8840000000418513,
+            "_workerStart": -1,
+            "_workerReady": -1,
+            "_workerFetchStart": -1,
+            "_workerRespondWithSettled": -1
+          }
+        },
+        {
+          "_connectionId": "20216",
+          "_initiator": {
+            "type": "script",
+            "stack": {
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "21",
+                  "url": "https://citizen.com/_next/static/chunks/3201aac917b8c26c10b997af21cf740e87dac180.fef70b281096533edcba.js",
+                  "lineNumber": 0,
+                  "columnNumber": 10831
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1316
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1104
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1745
+                },
+                {
+                  "functionName": "n",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116400
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116603
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116662
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116543
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "21",
+                  "url": "https://citizen.com/_next/static/chunks/3201aac917b8c26c10b997af21cf740e87dac180.fef70b281096533edcba.js",
+                  "lineNumber": 0,
+                  "columnNumber": 11094
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "69",
+                  "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                  "lineNumber": 0,
+                  "columnNumber": 65714
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1316
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1104
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "15",
+                  "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                  "lineNumber": 0,
+                  "columnNumber": 1745
+                },
+                {
+                  "functionName": "n",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116400
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "19",
+                  "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                  "lineNumber": 0,
+                  "columnNumber": 116603
+                }
+              ],
+              "parent": {
+                "description": "Promise.then",
+                "callFrames": [
+                  {
+                    "functionName": "n",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116471
+                  },
+                  {
+                    "functionName": "s",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116603
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116662
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116543
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "69",
+                    "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                    "lineNumber": 0,
+                    "columnNumber": 66246
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "69",
+                    "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                    "lineNumber": 0,
+                    "columnNumber": 66986
+                  },
+                  {
+                    "functionName": "s",
+                    "scriptId": "15",
+                    "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                    "lineNumber": 0,
+                    "columnNumber": 1316
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "15",
+                    "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                    "lineNumber": 0,
+                    "columnNumber": 1104
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "15",
+                    "url": "https://citizen.com/_next/static/chunks/e03d2c96a04b9f0b7ad4360c5370a427b3718fe3.45b21e7cd90df49e9cbf.js",
+                    "lineNumber": 0,
+                    "columnNumber": 1745
+                  },
+                  {
+                    "functionName": "n",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116400
+                  },
+                  {
+                    "functionName": "s",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116603
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116662
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "19",
+                    "url": "https://citizen.com/_next/static/chunks/14b0f5dbf59b743dfebdcf1f4fdeb128cd579982.4350b832a9876e49c6a6.js",
+                    "lineNumber": 0,
+                    "columnNumber": 116543
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "69",
+                    "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                    "lineNumber": 0,
+                    "columnNumber": 67066
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "69",
+                    "url": "https://citizen.com/_next/static/2LbrX0LcWJRxjhV8HefZ6/pages/explore.js",
+                    "lineNumber": 0,
+                    "columnNumber": 31385
+                  },
+                  {
+                    "functionName": "_",
+                    "scriptId": "14",
+                    "url": "https://citizen.com/_next/static/chunks/29107295.4407cd8345e4582fd471.js",
+                    "lineNumber": 0,
+                    "columnNumber": 42934
+                  },
+                  {
+                    "functionName": "d",
+                    "scriptId": "14",
+                    "url": "https://citizen.com/_next/static/chunks/29107295.4407cd8345e4582fd471.js",
+                    "lineNumber": 0,
+                    "columnNumber": 43141
+                  },
+                  {
+                    "functionName": "y",
+                    "scriptId": "14",
+                    "url": "https://citizen.com/_next/static/chunks/29107295.4407cd8345e4582fd471.js",
+                    "lineNumber": 0,
+                    "columnNumber": 43043
+                  }
+                ]
+              }
+            }
+          },
+          "_priority": "High",
+          "_resourceType": "fetch",
+          "cache": {},
+          "connection": "443",
+          "request": {
+            "method": "GET",
+            "url": "https://citizen.com/api/incident/batch?ids=-OOzUHMAV3G0VldRurxw,-OOzIxKEAxuPhaafsYVe,-OOzEkZS3t1NlXjpLkp9,-OOzA8KAGGuRGG7e2gVK,-OOz39VJZ_ElQpAc4UUE,-OOz1tvbXdOZ3mCYPMqw,-OOyh9JxeB9yL61tAMw4,-OOyUslTKPu02rJwIe7B,-OOy46ZS2xkCx-wSGcc4,-OOxqnMEgtiquoRE9EbO,-OOxpF8DKqlPjMQZmBRn,-OOxgq61OcKhdKjPKOwt,-OOxg7SHq5MgrpAj13AC,-OOxf-zaU-MGUhnxy-Bo,-OOxQfZnu-vt5f4hHz9G,-OOxNW8JRg5pedRoAnrF,-OOx7Ki7oD3nRbZssD1d,-OOx1Nq05hV3mhI20M0W,-OOwuatAKVnnUYjsU1JL,-OOwrcLqLi3jHO1kmEEW",
+            "httpVersion": "http/2.0",
+            "headers": [
+              {
+                "name": ":authority",
+                "value": "citizen.com"
+              },
+              {
+                "name": ":method",
+                "value": "GET"
+              },
+              {
+                "name": ":path",
+                "value": "/api/incident/batch?ids=-OOzUHMAV3G0VldRurxw,-OOzIxKEAxuPhaafsYVe,-OOzEkZS3t1NlXjpLkp9,-OOzA8KAGGuRGG7e2gVK,-OOz39VJZ_ElQpAc4UUE,-OOz1tvbXdOZ3mCYPMqw,-OOyh9JxeB9yL61tAMw4,-OOyUslTKPu02rJwIe7B,-OOy46ZS2xkCx-wSGcc4,-OOxqnMEgtiquoRE9EbO,-OOxpF8DKqlPjMQZmBRn,-OOxgq61OcKhdKjPKOwt,-OOxg7SHq5MgrpAj13AC,-OOxf-zaU-MGUhnxy-Bo,-OOxQfZnu-vt5f4hHz9G,-OOxNW8JRg5pedRoAnrF,-OOx7Ki7oD3nRbZssD1d,-OOx1Nq05hV3mhI20M0W,-OOwuatAKVnnUYjsU1JL,-OOwrcLqLi3jHO1kmEEW"
+              },
+              {
+                "name": ":scheme",
+                "value": "https"
+              },
+              {
+                "name": "accept",
+                "value": "*/*"
+              },
+              {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br, zstd"
+              },
+              {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+              },
+              {
+                "name": "cache-control",
+                "value": "no-cache"
+              },
+              {
+                "name": "pragma",
+                "value": "no-cache"
+              },
+              {
+                "name": "priority",
+                "value": "u=1, i"
+              },
+              {
+                "name": "referer",
+                "value": "https://citizen.com/explore?q=walgreens"
+              },
+              {
+                "name": "sec-ch-ua",
+                "value": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""
+              },
+              {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+              },
+              {
+                "name": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+              },
+              {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+              },
+              {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+              },
+              {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+              }
+            ],
+            "queryString": [
+              {
+                "name": "ids",
+                "value": "-OOzUHMAV3G0VldRurxw,-OOzIxKEAxuPhaafsYVe,-OOzEkZS3t1NlXjpLkp9,-OOzA8KAGGuRGG7e2gVK,-OOz39VJZ_ElQpAc4UUE,-OOz1tvbXdOZ3mCYPMqw,-OOyh9JxeB9yL61tAMw4,-OOyUslTKPu02rJwIe7B,-OOy46ZS2xkCx-wSGcc4,-OOxqnMEgtiquoRE9EbO,-OOxpF8DKqlPjMQZmBRn,-OOxgq61OcKhdKjPKOwt,-OOxg7SHq5MgrpAj13AC,-OOxf-zaU-MGUhnxy-Bo,-OOxQfZnu-vt5f4hHz9G,-OOxNW8JRg5pedRoAnrF,-OOx7Ki7oD3nRbZssD1d,-OOx1Nq05hV3mhI20M0W,-OOwuatAKVnnUYjsU1JL,-OOwrcLqLi3jHO1kmEEW"
+              }
+            ],
+            "cookies": [],
+            "headersSize": -1,
+            "bodySize": 0
+          },
+          "response": {
+            "status": 200,
+            "statusText": "",
+            "httpVersion": "http/2.0",
+            "headers": [
+              {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+              },
+              {
+                "name": "cache-control",
+                "value": "public, max-age=60"
+              },
+              {
+                "name": "content-encoding",
+                "value": "gzip"
+              },
+              {
+                "name": "content-type",
+                "value": "application/json; charset=utf-8"
+              },
+              {
+                "name": "date",
+                "value": "Tue, 29 Apr 2025 03:01:45 GMT"
+              },
+              {
+                "name": "etag",
+                "value": "W/\"ed70-7s8Pa1ar3aikBONtG/oExQkOpoc\""
+              },
+              {
+                "name": "server",
+                "value": "nginx/1.21.6"
+              },
+              {
+                "name": "vary",
+                "value": "Accept-Encoding"
+              },
+              {
+                "name": "via",
+                "value": "1.1 google"
+              },
+              {
+                "name": "x-cloud-trace-context",
+                "value": "0a604464316433af6cd805844846cdd5/7961883741890550233;o=1"
+              },
+              {
+                "name": "x-powered-by",
+                "value": "Express"
+              },
+              {
+                "name": "x-proxy-cache",
+                "value": "MISS"
+              }
+            ],
+            "cookies": [],
+            "content": {
+              "size": 60784,
+              "mimeType": "application/json",
+              "text": "[{\"address\":\"1521 S Wabash Ave, Chicago, Illinois, 60605\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745899184000},\"cityCode\":\"us-il-chicago\",\"cs\":1745895584000,\"hasVod\":false,\"key\":\"-OOzUHMAV3G0VldRurxw\",\"level\":0,\"location\":\"1521 S Wabash Ave\",\"latitude\":41.861348,\"longitude\":-87.625656,\"neighborhood\":\"\",\"raw\":\"Firefighter Activity at Walgreens at 1521 S Wabash Ave, Chicago, Illinois, 60605\",\"ll\":[41.861348,-87.625656],\"rawLocation\":\"1521 S Wabash Ave, Chicago, Illinois, 60605\",\"title\":\"Firefighter Activity at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745895630000,\"police\":\"CPD N Zn 4 (Dist 1)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzUHMAV3G0VldRurxw.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzUHMAV3G0VldRurxw-homescreen.png\",\"updates\":{\"-OOzU63-D-siyE9xdLKt\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1521 S Wabash Ave.\",\"ts\":1745895583999,\"type\":\"ROOT\",\"displayLocation\":\"1521 S Wabash Ave\"},\"-OOzUHMPU1xFL6iMFpaI\":{\"text\":\"Firefighters are on scene investigating an automatic alarm at Walgreens.\",\"ts\":1745895584000,\"type\":\"TEXT\",\"displayLocation\":\"1521 S Wabash Ave\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/a2f865bc24ff83a723529614c5757f22/US-IL-CHICAGO/87D-1021/1745895584000-ff0f1aa7-948e-4b7f-83e2-ad298d98909a.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/a2f865bc24ff83a723529614c5757f22/US-IL-CHICAGO/87D-1021/1745895584000-ff0f1aa7-948e-4b7f-83e2-ad298d98909a-waveform.png\",\"duration\":25240,\"source\":\"Chicago Fire (North)\",\"transcription\":{\"text\":\"Battalion 21's on scene, 1521 South Walbay. Battalion 21, you're on main. Fire is occupied, fire resistive, 100 by 100, nothing showing on the automatic alarm. Battalion 21, message received, you're on main, switch over to Englewood. Yeah, that's Battalion 2, I'm sorry, and it's 1521 South Walbay.\"},\"channelId\":\"US-IL-CHICAGO/87D-1021\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"yellow\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"7bd34ffb-673b-4865-a03c-00388d7d6a8f\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"da505948-0903-4381-85ab-ce67279e954f\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Fire / EMS Activity\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"1489 Airways Blvd, Memphis, Tennessee, 38114\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745896208000},\"cityCode\":\"us-tn-memphis\",\"cs\":1745892608000,\"hasVod\":false,\"key\":\"-OOzIxKEAxuPhaafsYVe\",\"level\":1,\"location\":\"1489 Airways Blvd\",\"latitude\":35.104969,\"longitude\":-89.985845,\"neighborhood\":\"\",\"raw\":\"Man Assaulted Woman at Walgreens at 1489 Airways Blvd, Memphis, Tennessee, 38114\",\"ll\":[35.104969,-89.985845],\"rawLocation\":\"1489 Airways Blvd, Memphis, Tennessee, 38114\",\"title\":\"Man Assaulted Woman at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745892660000,\"police\":\"MPD Airways \",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzIxKEAxuPhaafsYVe.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzIxKEAxuPhaafsYVe-homescreen.png\",\"updates\":{\"-OOzIkV-rWpQVCecsz_V\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1489 Airways Blvd.\",\"ts\":1745892607999,\"type\":\"ROOT\",\"displayLocation\":\"1489 Airways Blvd\"},\"-OOzIxKdEDoWC3bpdFI-\":{\"text\":\"Police have received a report of a man who assaulted a woman at Walgreens.\",\"ts\":1745892608000,\"type\":\"TEXT\",\"displayLocation\":\"1489 Airways Blvd\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/7d9c751baf4e15bf864d6b0a5aa902a0/US-TN-MEMPHIS/9FD-33/1745892608000-5217eb8a-729f-431d-ad43-48c178f71633.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/7d9c751baf4e15bf864d6b0a5aa902a0/US-TN-MEMPHIS/9FD-33/1745892608000-5217eb8a-729f-431d-ad43-48c178f71633-waveform.png\",\"duration\":21840,\"source\":\"Airways Dispatch\",\"transcription\":{\"text\":\"746, regarding fight, 1489 Airways at the Walgreens, complainant's Camaro with Tinkton. She's in route, occupying a Chevy Camaro, black in color with a 5-minute ETA. Advise a male, Black, princess assaulted her at another location. 1489 Airways, 746. 1046, from 2981 Park.\"},\"channelId\":\"US-TN-MEMPHIS/9FD-33\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-tn-memphis-2x.png\",\"facepile\":null,\"severity\":\"yellow\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"353c296f-ba7a-4f5e-bdca-ace085596666\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"92416804-3529-4941-9215-852a1ddcd04e\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Assault / Fight\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"5115 W Capitol Dr, Milwaukee, WI 53216, USA\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745895160000},\"cityCode\":\"us-wi-milwaukee\",\"cs\":1745891560000,\"hasVod\":false,\"key\":\"-OOzEkZS3t1NlXjpLkp9\",\"level\":0,\"location\":\"Walgreens\",\"latitude\":43.089624,\"longitude\":-87.978027,\"neighborhood\":\"Grasslyn Manor, Milwaukee\",\"raw\":\"Theft Reported at 5115 W Capitol Dr, Milwaukee, WI 53216, USA\",\"ll\":[43.089624,-87.978027],\"rawLocation\":\"5115 W Capitol Dr, Milwaukee, WI 53216, USA\",\"title\":\"Theft Reported\",\"transcriber\":\"bot\",\"ts\":1745891559000,\"police\":\"\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzEkZS3t1NlXjpLkp9.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzEkZS3t1NlXjpLkp9-homescreen.png\",\"updates\":{\"-OOzEkZxBk87pOqhKeRe\":{\"text\":\"Police are responding to a report of a theft.\",\"ts\":1745891560000,\"type\":\"TEXT\",\"displayLocation\":\"Walgreens\"},\"-OOzEkd-9S_MgDpnFvQG\":{\"text\":\"Incident reported at Walgreens.\",\"ts\":1745891559999,\"type\":\"ROOT\",\"displayLocation\":\"Walgreens\"}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-wi-milwaukee-2x.png\",\"facepile\":null,\"severity\":\"yellow\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"372ac92e-4b98-4560-a207-6f3968ea9331\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"85468d4d-3daf-48f9-9edb-c3a75835e225\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745893937000},\"cityCode\":\"us-il-chicago\",\"cs\":1745890337000,\"hasVod\":true,\"key\":\"-OOzA8KAGGuRGG7e2gVK\",\"level\":0,\"liveStreamers\":{\"c252b6d62aebccca7f52\":{\"cs\":1745890894000,\"ts\":1745891018000,\"username\":\"chicagoUser1180890021\",\"userFullName\":\"Zan Do\",\"avatarThumbURL\":\"https://storage.googleapis.com/citizen-profile-pictures/default-silver-thumb.png\",\"videoStreamId\":\"mux:kJDXTUZ7QdzH8BcInW9gfLbJ1EkSlPSQMJINTYXmEHE\",\"hlsDone\":true,\"isOnAir\":false,\"disableVerifiedPartnerAccess\":false}},\"location\":\"1533 E 67th St\",\"latitude\":41.773277,\"longitude\":-87.587812,\"neighborhood\":\"\",\"raw\":\"Three Women Stealing From Walgreens at 1533 E 67th St, Chicago, Illinois, 60637\",\"ll\":[41.773277,-87.587812],\"rawLocation\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"title\":\"Three Women Stealing From Walgreens\",\"transcriber\":\"bot\",\"ts\":1745890350000,\"videoPreview\":\"https://streaming-cdn.sp0n.io/mediacache/_definst_/mp4:amazons3/media.sp0n.com/videos/mux:kJDXTUZ7QdzH8BcInW9gfLbJ1EkSlPSQMJINTYXmEHE.mp4/playlist.m3u8?wowzaplayduration=10000&wowzaplaystart=0\",\"preferredStream\":{\"image\":\"https://storage.googleapis.com/citizen-stream-capture/mux:kJDXTUZ7QdzH8BcInW9gfLbJ1EkSlPSQMJINTYXmEHE_0005.jpg\",\"videoStreamId\":\"mux:kJDXTUZ7QdzH8BcInW9gfLbJ1EkSlPSQMJINTYXmEHE\",\"url\":\"https://streaming-media-cdn.sp0n.io/sGHFDty5Q8LPi6xy3sWDEmZmTKuSmGtKzFwrQMXRx64.m3u8\",\"duration\":70.975},\"police\":\"CPD S Zn 7 (Dist 3)\",\"shareImageLive\":\"https://storage.googleapis.com/citizen-stream-capture/mux:kJDXTUZ7QdzH8BcInW9gfLbJ1EkSlPSQMJINTYXmEHE_0005.jpg\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzA8KAGGuRGG7e2gVK.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOzA8KAGGuRGG7e2gVK-homescreen.png\",\"updates\":{\"-OOzA52c-0H35mBXapqB\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\",\"ts\":1745890336999,\"type\":\"ROOT\",\"displayLocation\":\"1533 E 67th St\"},\"-OOzA8KQF_EJNKB10lDx\":{\"text\":\"Police are responding to a report of three women stealing from Walgreens.\",\"ts\":1745890337000,\"type\":\"TEXT\",\"displayLocation\":\"1533 E 67th St\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37360/1745890337226-e0d17b4b-b82d-43a4-afe3-d26512ac1455.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37360/1745890337226-e0d17b4b-b82d-43a4-afe3-d26512ac1455-waveform.png\",\"duration\":9927,\"source\":\"CPD Zn 5/7\",\"transcription\":{\"text\":\"Alright, for the units in 3, a theft in progress, 1533 East 67th Street at the Walgreens. Three females are stealing inside the store, white shirt, gray pants, pink shirt, gray pants.\"},\"channelId\":\"BC-37360\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"yellow\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"f04c3893-39e8-4816-9046-07a04c247b5a\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"bddd3000-4d0f-491d-9665-13402f129ef8\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"3ec6b301-4a74-447d-9859-c42512848c7e\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"6315 S Kedzie Ave, Chicago, Illinois, 60629\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745892083000},\"cityCode\":\"us-il-chicago\",\"cs\":1745888483000,\"hasVod\":false,\"key\":\"-OOz39VJZ_ElQpAc4UUE\",\"level\":0,\"location\":\"6315 S Kedzie Ave\",\"latitude\":41.778383,\"longitude\":-87.703099,\"neighborhood\":\"\",\"raw\":\"Woman Shoplifting at Walgreens at 6315 S Kedzie Ave, Chicago, Illinois, 60629\",\"ll\":[41.778383,-87.703099],\"rawLocation\":\"6315 S Kedzie Ave, Chicago, Illinois, 60629\",\"title\":\"Woman Shoplifting at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745888520000,\"police\":\"CPD S Zn 6 (Dist 8)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOz39VJZ_ElQpAc4UUE.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOz39VJZ_ElQpAc4UUE-homescreen.png\",\"updates\":{\"-OOz30PsOWSOg4CWb531\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 6315 S Kedzie Ave.\",\"ts\":1745888482999,\"type\":\"ROOT\",\"displayLocation\":\"6315 S Kedzie Ave\"},\"-OOz39VTFKk0HxCCy8bw\":{\"text\":\"Police are responding to a report of a woman shoplifting at Walgreens.\",\"ts\":1745888483000,\"type\":\"TEXT\",\"displayLocation\":\"6315 S Kedzie Ave\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37359/1745888483943-66a47f77-a216-4845-8851-a78598bea22b.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37359/1745888483943-66a47f77-a216-4845-8851-a78598bea22b-waveform.png\",\"duration\":20605,\"source\":\"CPD Zn 6\",\"transcription\":{\"text\":\"15, I got a, that's busy. I got a theft in progress. 6315 South Kedzie at the Walgreens. 6315 South Kedzie at the Walgreens. Got a little time on it. Victoria calling, says a female, White, 4 feet 11 inches, wearing a black shirt, stealing, nothing further.\"},\"channelId\":\"BC-37359\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"yellow\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"db515dcf-bc67-4afd-a5fa-f78638753648\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"b410b5ec-90d4-4aa2-a66a-992fc15079fc\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"19af10db-8482-450f-8b6b-65bc1b7c29bf\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"1931 W Cermak Rd, Chicago, Illinois, 60608\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745891757000},\"cityCode\":\"us-il-chicago\",\"cs\":1745888157000,\"hasVod\":false,\"key\":\"-OOz1tvbXdOZ3mCYPMqw\",\"level\":0,\"location\":\"1931 W Cermak Rd\",\"latitude\":41.852201,\"longitude\":-87.674549,\"neighborhood\":\"\",\"raw\":\"Man Shoplifting at Walgreens at 1931 W Cermak Rd, Chicago, Illinois, 60608\",\"ll\":[41.852201,-87.674549],\"rawLocation\":\"1931 W Cermak Rd, Chicago, Illinois, 60608\",\"title\":\"Man Shoplifting at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745888190000,\"police\":\"CPD N Zn 10 (Dist 10)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOz1tvbXdOZ3mCYPMqw.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOz1tvbXdOZ3mCYPMqw-homescreen.png\",\"updates\":{\"-OOz1lp7ZKLupmvqoZmM\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1931 W Cermak Rd.\",\"ts\":1745888156999,\"type\":\"ROOT\",\"displayLocation\":\"1931 W Cermak Rd\"},\"-OOz1tvkv_G8I2nG_NS5\":{\"text\":\"Police have received a report of a man shoplifting at Walgreens.\",\"ts\":1745888157000,\"type\":\"TEXT\",\"displayLocation\":\"1931 W Cermak Rd\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37363/1745888157037-bf8f46f4-f603-4349-8406-d16ff45235f9.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37363/1745888157037-bf8f46f4-f603-4349-8406-d16ff45235f9-waveform.png\",\"duration\":9432,\"source\":\"CPD Zn 10\",\"transcription\":{\"text\":\"Theft in progress, Walgreens, 1931 Cermak. There's a male Hispanic shoplifting, black jacket, beige pants, white shoes.\"},\"channelId\":\"BC-37363\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"5f33897e-f267-4896-9b66-dae4e69a344b\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"528a09a7-e8d2-4886-90f0-88d0c54cb846\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"d08ab5e8-2eb0-4803-b229-f64db78933c8\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"8620 S Cottage Grove Ave, Chicago, Illinois, 60619\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745886056000},\"cityCode\":\"us-il-chicago\",\"cs\":1745882456000,\"hasVod\":false,\"key\":\"-OOyh9JxeB9yL61tAMw4\",\"level\":0,\"location\":\"8620 S Cottage Grove Ave\",\"latitude\":41.738074,\"longitude\":-87.605029,\"neighborhood\":\"\",\"raw\":\"Two Men Stuffing Cart With Stolen Merchandise at Walgreens at 8620 S Cottage Grove Ave, Chicago, Illinois, 60619\",\"ll\":[41.738074,-87.605029],\"rawLocation\":\"8620 S Cottage Grove Ave, Chicago, Illinois, 60619\",\"title\":\"Two Men Stuffing Cart With Stolen Merchandise at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745882490000,\"police\":\"CPD S Zn 8 (Dist 6)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOyh9JxeB9yL61tAMw4.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOyh9JxeB9yL61tAMw4-homescreen.png\",\"updates\":{\"-OOyh0z-hMCdp-8K0qir\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 8620 S Cottage Grove Ave.\",\"ts\":1745882455999,\"type\":\"ROOT\",\"displayLocation\":\"8620 S Cottage Grove Ave\"},\"-OOyh9KCuvuI2NnyozwO\":{\"text\":\"Police are responding to a report of two men stealing merchandise and stuffing them in a cart at Walgreens.\",\"ts\":1745882456000,\"type\":\"TEXT\",\"displayLocation\":\"8620 S Cottage Grove Ave\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37361/1745882456127-e58f8595-7093-47de-9e09-d00d398e213a.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37361/1745882456127-e58f8595-7093-47de-9e09-d00d398e213a-waveform.png\",\"duration\":30000,\"source\":\"CPD Zn 8\",\"transcription\":{\"text\":\"23. You can check out that theft in progress, 8620 South Cottage Grove, at the Walgreens, for the male, White, and male, Black that are stealing merchandise and stuffing them in bags in a cart. 10-4. Thank you. 411. 1. That battery in progress, 7955 South Dante is on the beat. Mr. Lightfoot is going to be the caller. States that his housekeeper is fighting someone.\"},\"channelId\":\"BC-37361\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"47efb16c-0b42-44bc-b637-1101bdf34224\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"77245291-92f9-4185-9883-c2cc00d60526\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"47f340c9-b71d-4212-8d64-5d18af32e9c6\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745882586000},\"cityCode\":\"us-il-chicago\",\"cs\":1745878986000,\"hasVod\":false,\"key\":\"-OOyUslTKPu02rJwIe7B\",\"level\":0,\"location\":\"1533 E 67th St\",\"latitude\":41.773277,\"longitude\":-87.587812,\"neighborhood\":\"\",\"raw\":\"Five Students in Uniform Stealing From Walgreens at 1533 E 67th St, Chicago, Illinois, 60637\",\"ll\":[41.773277,-87.587812],\"rawLocation\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"title\":\"Five Students in Uniform Stealing From Walgreens\",\"transcriber\":\"bot\",\"ts\":1745879010000,\"police\":\"CPD S Zn 7 (Dist 3)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOyUslTKPu02rJwIe7B.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOyUslTKPu02rJwIe7B-homescreen.png\",\"updates\":{\"-OOyUmoFUO_0_MPv0NTA\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\",\"ts\":1745878985999,\"type\":\"ROOT\",\"displayLocation\":\"1533 E 67th St\"},\"-OOyUslnuskno_wWewNi\":{\"text\":\"Police are responding to a report of five students in uniform stealing from Walgreens.\",\"ts\":1745878986000,\"type\":\"TEXT\",\"displayLocation\":\"1533 E 67th St\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37360/1745878986559-a17fae1a-c67a-4631-801e-816ad7c5281a.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37360/1745878986559-a17fae1a-c67a-4631-801e-816ad7c5281a-waveform.png\",\"duration\":13985,\"source\":\"CPD Zn 5/7\",\"transcription\":{\"text\":\"And they're still in that Walgreens again. This is 5 male blacks inside Walgreens, 1533 East 67th Street. They said they're students from Hyde Park. They're all wearing uniforms and now they just ram-packing the store. Still in.\"},\"channelId\":\"BC-37360\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"c6564421-1d42-4c6e-9d6e-b09b350362ad\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"533e5559-14a9-4770-8ef2-bff1fc16dc61\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"97cba4da-f01d-4759-879a-95f245dc60b0\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167},{\"address\":\"3605 W Wisconsin Ave, Milwaukee, WI 53212, USA\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745875593000},\"cityCode\":\"us-wi-milwaukee\",\"cs\":1745871993000,\"hasVod\":false,\"key\":\"-OOy46ZS2xkCx-wSGcc4\",\"level\":0,\"location\":\"Walgreens\",\"latitude\":43.039185,\"longitude\":-87.95866,\"neighborhood\":\"Merrill Park, Milwaukee\",\"raw\":\"Theft Reported at 3605 W Wisconsin Ave, Milwaukee, WI 53212, USA\",\"ll\":[43.039185,-87.95866],\"rawLocation\":\"3605 W Wisconsin Ave, Milwaukee, WI 53212, USA\",\"title\":\"Theft Reported\",\"transcriber\":\"bot\",\"ts\":1745871993000,\"police\":\"\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOy46ZS2xkCx-wSGcc4.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOy46ZS2xkCx-wSGcc4-homescreen.png\",\"updates\":{\"-OOy46XcGyivvb_nIh26\":{\"text\":\"Incident reported at Walgreens.\",\"ts\":1745871992999,\"type\":\"ROOT\",\"displayLocation\":\"Walgreens\"},\"-OOy46ZvooOfHqcagmGH\":{\"text\":\"Police are responding to a report of a theft.\",\"ts\":1745871993000,\"type\":\"TEXT\",\"displayLocation\":\"Walgreens\"}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-wi-milwaukee-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"7fdbb648-7379-4bcf-aab4-ea62d1f2d9f9\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"4d2a3fcf-31c3-422f-a986-3936f6463fee\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0},{\"address\":\"7155 W Foster Pl, Chicago, Illinois, 60656\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745871806000},\"cityCode\":\"us-il-chicago\",\"cs\":1745868206000,\"hasVod\":false,\"key\":\"-OOxqnMEgtiquoRE9EbO\",\"level\":0,\"location\":\"7155 W Foster Pl\",\"latitude\":41.974717,\"longitude\":-87.806375,\"neighborhood\":\"\",\"raw\":\"Woman Stealing Merchandise at Walgreens at 7155 W Foster Pl, Chicago, Illinois, 60656\",\"ll\":[41.974717,-87.806375],\"rawLocation\":\"7155 W Foster Pl, Chicago, Illinois, 60656\",\"title\":\"Woman Stealing Merchandise at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745868240000,\"police\":\"CPD N Zn 1 (Dist 16)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxqnMEgtiquoRE9EbO.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxqnMEgtiquoRE9EbO-homescreen.png\",\"updates\":{\"-OOxqeykCJr471VaExPb\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 7155 W Foster Pl.\",\"ts\":1745868205999,\"type\":\"ROOT\",\"displayLocation\":\"7155 W Foster Pl\"},\"-OOxqnMYVCa4Lius-pOh\":{\"text\":\"Police are responding to a report of a woman stealing merchandise at Walgreens.\",\"ts\":1745868206000,\"type\":\"TEXT\",\"displayLocation\":\"7155 W Foster Pl\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37354/1745868206362-ccb3e3b5-214f-4d15-9fd8-7bd04d38f609.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37354/1745868206362-ccb3e3b5-214f-4d15-9fd8-7bd04d38f609-waveform.png\",\"duration\":26098,\"source\":\"CPD Zn 1\",\"transcription\":{\"text\":\"1658. 1658. Can you give me a VAT number for 30 sector auto theft, burglary mission in this clear 10-4, units in 16, in a theft in progress at 7155 West Foster at the Walgreens. Female, Hispanic, all black clothing, at Walgreens, stealing merchandise. 1614. 14. Can you start heading that way, please? 1622 for the assist as well.\"},\"channelId\":\"BC-37354\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"46303fcf-c8b7-4ea7-a1c2-42b896773852\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"5f2278b1-7e1b-4391-9627-68aaf0c8855d\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"6065bd34-9906-4299-a53c-e94a56440e1d\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.341685},{\"address\":\"1359 Poplar Ave, Memphis, Tennessee, 38104\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745871434000},\"cityCode\":\"us-tn-memphis\",\"cs\":1745867834000,\"hasVod\":false,\"key\":\"-OOxpF8DKqlPjMQZmBRn\",\"level\":0,\"location\":\"1359 Poplar Ave\",\"latitude\":35.143364013705,\"longitude\":-90.015112026602,\"neighborhood\":\"Memphis\",\"raw\":\"Report of Man Disrobing, Pouring Water on Himself at Walgreens Pharmacy Window at 1359 Poplar Ave, Memphis, Tennessee, 38104\",\"ll\":[35.143364013705,-90.015112026602],\"rawLocation\":\"1359 Poplar Ave, Memphis, Tennessee, 38104\",\"title\":\"Report of Man Disrobing, Pouring Water on Himself at Walgreens Pharmacy Window\",\"transcriber\":\"1f8ea9824ab799d3a893\",\"ts\":1745867833000,\"police\":\"MPD Crump\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxpF8DKqlPjMQZmBRn.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxpF8DKqlPjMQZmBRn-homescreen.png\",\"updates\":{\"-OOxpF8cu6miR1pMJH3E\":{\"text\":\"Police received a report of a man disrobing and pouring water on himself at the Walgreens pharmacy drive-thru window.\",\"ts\":1745867834000,\"type\":\"TEXT\",\"displayLocation\":\"1359 Poplar Ave\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/7d9c751baf4e15bf864d6b0a5aa902a0/US-TN-MEMPHIS/9FD-21/1745867176000-10aedaf7-838a-4dc0-8d5e-6aa0e4a1f1ef.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/7d9c751baf4e15bf864d6b0a5aa902a0/US-TN-MEMPHIS/9FD-21/1745867176000-10aedaf7-838a-4dc0-8d5e-6aa0e4a1f1ef-waveform.png\",\"duration\":30840,\"source\":\"Crump Dispatch\",\"transcription\":{\"text\":\"485, 495, a suspicious party call, 1359 Poplar at Walgreens. Karen, an employee, is placing a call, advises a male Black at the pharmacy window that's completely nude, pouring water on himself. At 1359 Poplar at Walgreens. 485. 485, check. You're about to send somebody else, CIT, over? I will, 495. Chelsea and Evergreen. Any CIT officer able to pull over with the 25 cars at Walgreens? 1359.\"},\"channelId\":\"US-TN-MEMPHIS/9FD-21\"}]},\"-OOxpF9FOi_zANnSjkhT\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1359 Poplar Ave.\",\"ts\":1745867833999,\"type\":\"ROOT\",\"displayLocation\":\"1359 Poplar Ave\"}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-tn-memphis-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"6826b450-b109-4451-bc61-3dcb2df57e3c\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"02bfd10d-9363-4f7c-a384-25ade7168a26\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Police Related 2\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167},{\"address\":\"151 N State St, Chicago, Illinois, 60601\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745869213000},\"cityCode\":\"us-il-chicago\",\"cs\":1745865613000,\"hasVod\":false,\"key\":\"-OOxgq61OcKhdKjPKOwt\",\"level\":0,\"location\":\"151 N State St\",\"latitude\":41.884827,\"longitude\":-87.627805,\"neighborhood\":\"\",\"raw\":\"Man Harassing Customers at Walgreens at 151 N State St, Chicago, Illinois, 60601\",\"ll\":[41.884827,-87.627805],\"rawLocation\":\"151 N State St, Chicago, Illinois, 60601\",\"title\":\"Man Harassing Customers at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745865630000,\"police\":\"CPD N Zn 4 (Dist 1)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxgq61OcKhdKjPKOwt.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxgq61OcKhdKjPKOwt-homescreen.png\",\"updates\":{\"-OOxglv7NPpDK_nPQv8r\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 151 N State St.\",\"ts\":1745865612999,\"type\":\"ROOT\",\"displayLocation\":\"151 N State St\"},\"-OOxgq6Ud4qDRKkV4Jzq\":{\"text\":\"Police are responding to a report of a man harassing customers at Walgreens.\",\"ts\":1745865613000,\"type\":\"TEXT\",\"displayLocation\":\"151 N State St\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37357/1745865613298-4aed5c7c-9686-4908-9f81-d56c673f77a8.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37357/1745865613298-4aed5c7c-9686-4908-9f81-d56c673f77a8-waveform.png\",\"duration\":16031,\"source\":\"CPD Zn 4\",\"transcription\":{\"text\":\"114. 114, I have a criminal trespass in progress, 151 North State, 151 North State. Male has already been arrested for trespassing. He's back at the location harassing customers, male, black, with a black sweater, blue jeans.\"},\"channelId\":\"BC-37357\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"b4721a80-ef73-491f-af87-cbe02114984a\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"ac69c687-3395-40d2-ac51-35bdcb71e2ee\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"d6f50bba-0812-4973-84e2-3e02712e1b21\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Harassment\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167},{\"address\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745869043000},\"cityCode\":\"us-il-chicago\",\"cs\":1745865443000,\"hasVod\":false,\"key\":\"-OOxg7SHq5MgrpAj13AC\",\"level\":0,\"location\":\"1533 E 67th St\",\"latitude\":41.773075005865,\"longitude\":-87.587810013251,\"neighborhood\":\"Chicago\",\"raw\":\"Man Shoplifting at Walgreens at 1533 E 67th St, Chicago, Illinois, 60637\",\"ll\":[41.773075005865,-87.587810013251],\"rawLocation\":\"1533 E 67th St, Chicago, Illinois, 60637\",\"title\":\"Man Shoplifting at Walgreens\",\"transcriber\":\"d18e922336f50e4c3334\",\"ts\":1745865443000,\"police\":\"CPD S Zn 7 (Dist 3)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxg7SHq5MgrpAj13AC.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxg7SHq5MgrpAj13AC-homescreen.png\",\"updates\":{\"-OOxg7Psza4lZIj8LgiU\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1533 E 67th St.\",\"ts\":1745865442999,\"type\":\"ROOT\",\"displayLocation\":\"1533 E 67th St\"},\"-OOxg7Sfm_yr5b3X62X4\":{\"text\":\"Police are responding to a report of a man shoplifting at Walgreens.\",\"ts\":1745865443000,\"type\":\"TEXT\",\"displayLocation\":\"1533 E 67th St\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/365007103de0067c6a67e31ee79e484d/US-IL-CHICAGO/0002833416-460125000/1745865242013-a1658063-2f3a-4d10-bef8-31f29e0d3a87.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/365007103de0067c6a67e31ee79e484d/US-IL-CHICAGO/0002833416-460125000/1745865242013-a1658063-2f3a-4d10-bef8-31f29e0d3a87-waveform.png\",\"duration\":14987,\"source\":\"Chicago PD Citywide 1\",\"transcription\":{\"text\":\"Any units in 3 and citywide, getting a theft in progress at the Walgreens, 1533 East 67th Street. Security calling it in for a male, Black, blue shirt, black pants, stated inside shoplifting. Coming in details to follow, nothing further. Zone 7, District 3, clear.\"},\"channelId\":\"US-IL-CHICAGO/0002833416-460125000\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"31bf1550-f7dc-40ff-9427-e5c96e326a31\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"f505acab-1a8d-420e-a06f-49322e553e45\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167},{\"address\":\"4040 N Cicero Ave, Chicago, Illinois, 60641\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745868722000},\"cityCode\":\"us-il-chicago\",\"cs\":1745865122000,\"hasVod\":false,\"key\":\"-OOxf-zaU-MGUhnxy-Bo\",\"level\":0,\"location\":\"4040 N Cicero Ave\",\"latitude\":41.954719,\"longitude\":-87.747415,\"neighborhood\":\"\",\"raw\":\"Man Stealing From Freezer Section at Walgreens at 4040 N Cicero Ave, Chicago, Illinois, 60641\",\"ll\":[41.954719,-87.747415],\"rawLocation\":\"4040 N Cicero Ave, Chicago, Illinois, 60641\",\"title\":\"Man Stealing From Freezer Section at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745865150000,\"police\":\"CPD N Zn 1 (Dist 16)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxf-zaU-MGUhnxy-Bo.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxf-zaU-MGUhnxy-Bo-homescreen.png\",\"updates\":{\"-OOxeu2F_CcIphrRb2uz\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 4040 N Cicero Ave.\",\"ts\":1745865121999,\"type\":\"ROOT\",\"displayLocation\":\"4040 N Cicero Ave\"},\"-OOxf-zqMwodhqsFaOaK\":{\"text\":\"Police are responding to a report of a man stealing from the freezer section at Walgreens.\",\"ts\":1745865122000,\"type\":\"TEXT\",\"displayLocation\":\"4040 N Cicero Ave\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37354/1745865122949-bcd75272-ddda-4d68-8205-09a58f192287.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37354/1745865122949-bcd75272-ddda-4d68-8205-09a58f192287-waveform.png\",\"duration\":29664,\"source\":\"CPD Zn 1\",\"transcription\":{\"text\":\"1654. 1654. Get in the vet number for a part check, Portage Park. 10-4. In the theft in progress at the Walgreens, 4048 North Cicero. 4040 North Cicero. Got a person, male, black, gray sweater, white shirt, blue jeans, and Timberland boots. He's stealing out of the freezer section. Again, 4040 North Cicero. 1623.\"},\"channelId\":\"BC-37354\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"4a31172e-9713-4705-b29d-5d18f4adf6a3\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"a169ef74-bda1-416c-9d01-ecd94f87b9d0\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"b61d25b4-9d43-4c67-a234-a2a01c0e4146\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Robbery / Theft\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167},{\"address\":\"740 W Diversey Pkwy, Chicago, Illinois, 60614\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745864717000},\"cityCode\":\"us-il-chicago\",\"cs\":1745861117000,\"hasVod\":false,\"key\":\"-OOxQfZnu-vt5f4hHz9G\",\"level\":1,\"location\":\"740 W Diversey Pkwy\",\"latitude\":41.932795,\"longitude\":-87.648116,\"neighborhood\":\"\",\"raw\":\"Man Wanted for Battery, Theft at Walgreens at 740 W Diversey Pkwy, Chicago, Illinois, 60614\",\"ll\":[41.932795,-87.648116],\"rawLocation\":\"740 W Diversey Pkwy, Chicago, Illinois, 60614\",\"title\":\"Man Wanted for Battery, Theft at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745861130000,\"police\":\"CPD N Zn 2 (Dist 19)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxQfZnu-vt5f4hHz9G.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxQfZnu-vt5f4hHz9G-homescreen.png\",\"updates\":{\"-OOxQcG719QDMlB587h-\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 740 W Diversey Pkwy.\",\"ts\":1745861116999,\"type\":\"ROOT\",\"displayLocation\":\"740 W Diversey Pkwy\"},\"-OOxQf_4Lg_vyrN-R7pi\":{\"text\":\"Police have received a report of a man wanted for battery and theft at the front of Walgreens.\",\"ts\":1745861117000,\"type\":\"TEXT\",\"displayLocation\":\"740 W Diversey Pkwy\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37355/1745861117698-95518eef-0517-427c-9ec4-c752c47a04fa.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37355/1745861117698-95518eef-0517-427c-9ec4-c752c47a04fa-waveform.png\",\"duration\":22844,\"source\":\"CPD Zn 2\",\"transcription\":{\"text\":\"1934. 1934. And 1935 for backup. 35. A person wanted at Walgreens, 740 West Diversee. Walgreens calling in a male, black, tan and blue Disney hoodie, black pants, wanted for battery and theft, is in the front at the Walgreens.\"},\"channelId\":\"BC-37355\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"1cb4a35a-51c9-4751-aa8e-13b06b45fa33\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"97f46688-1eea-4109-a16e-1c87ccc5c6ae\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"d7c9b52a-6f68-45cd-a94d-5cf6cbe49cc0\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Assault / Fight\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.341685},{\"address\":\"S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745863901000},\"cityCode\":\"us-il-chicago\",\"cs\":1745860301000,\"hasVod\":false,\"key\":\"-OOxNW8JRg5pedRoAnrF\",\"level\":0,\"location\":\"S Kedzie Ave & S Archer Ave\",\"latitude\":41.814169004473,\"longitude\":-87.704205982249,\"neighborhood\":\"Brighton Park, Chicago\",\"raw\":\"Man Indecently Exposed Lying on Ground in Walgreens Parking Lot at S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632\",\"ll\":[41.814169004473,-87.704205982249],\"rawLocation\":\"S Kedzie Ave & S Archer Ave, Chicago, Illinois, 60632\",\"title\":\"Man Indecently Exposed Lying on Ground in Walgreens Parking Lot\",\"transcriber\":\"d18e922336f50e4c3334\",\"ts\":1745860301000,\"police\":\"CPD S Zn 6 (Dist 8)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxNW8JRg5pedRoAnrF.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOxNW8JRg5pedRoAnrF-homescreen.png\",\"updates\":{\"-OOxNW27vKueB5Emz2gq\":{\"text\":\"A 911 caller has reported an unconfirmed incident at S Kedzie Ave & S Archer Ave.\",\"ts\":1745860300999,\"type\":\"ROOT\",\"displayLocation\":\"S Kedzie Ave & S Archer Ave\"},\"-OOxNW8eKgwCkx2qshfc\":{\"text\":\"Police are responding to a report of a man lying on the ground and exposing himself in the Walgreens parking lot.\",\"ts\":1745860301000,\"type\":\"TEXT\",\"displayLocation\":\"S Kedzie Ave & S Archer Ave\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37359/1745860177767-b30414c7-5d26-407d-aab3-053d099615ac.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37359/1745860177767-b30414c7-5d26-407d-aab3-053d099615ac-waveform.png\",\"duration\":14038,\"source\":\"CPD Zn 6\",\"transcription\":{\"text\":\"1, please. Need you to slide over to Archer and Kedzie. I'm going to check the well-being at the Walgreens over there. Unknown male is by the Walgreens parking lot, totally exposing himself and laying on the ground.\"},\"channelId\":\"BC-37359\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"42cad37d-5567-43dd-b212-3d86744d4ee1\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"4f4faee2-f2c2-4998-894f-58a41db3f32f\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"c9ff9813-59a3-42e7-8d13-4196ec97e4ed\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Police Related 2\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.3417},{\"address\":\"530 W Little York Rd, Houston, Texas, 77091\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745859624000},\"cityCode\":\"us-tx-houston\",\"cs\":1745856024000,\"hasVod\":false,\"key\":\"-OOx7Ki7oD3nRbZssD1d\",\"level\":0,\"location\":\"530 W Little York Rd\",\"latitude\":29.86999,\"longitude\":-95.409204,\"neighborhood\":\"\",\"raw\":\"Firefighter Activity at Walgreens  at 530 W Little York Rd, Houston, Texas, 77091\",\"ll\":[29.86999,-95.409204],\"rawLocation\":\"530 W Little York Rd, Houston, Texas, 77091\",\"title\":\"Firefighter Activity at Walgreens \",\"transcriber\":\"bot\",\"ts\":1745856060000,\"police\":\"HPD 6 North\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOx7Ki7oD3nRbZssD1d.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOx7Ki7oD3nRbZssD1d-homescreen.png\",\"updates\":{\"-OOx7Br--8EK9_zOCotn\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 530 W Little York Rd.\",\"ts\":1745856023999,\"type\":\"ROOT\",\"displayLocation\":\"530 W Little York Rd\"},\"-OOx7KiTScsTVk3jlE0w\":{\"text\":\"Firefighters have received a report of an unknown incident at Walgreens.\",\"ts\":1745856024000,\"type\":\"TEXT\",\"displayLocation\":\"530 W Little York Rd\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/386b0c12f5964dc7c87781c0fd59913e/US-TX-HOUSTON/1A7-40001/1745856024000-3f3ab668-a017-4345-90fb-5b106133a90f.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/386b0c12f5964dc7c87781c0fd59913e/US-TX-HOUSTON/1A7-40001/1745856024000-3f3ab668-a017-4345-90fb-5b106133a90f-waveform.png\",\"duration\":18040,\"source\":\"Houston FD Citywide\",\"transcription\":{\"text\":\"Check for fire. Engine 67. 530 West Little York Road, Walgreens Little York Pharmacy. Alpha Bravo 3. Clear.\"},\"channelId\":\"US-TX-HOUSTON/1A7-40001\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-tx-houston-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"b1f5aef2-baa1-479f-8987-1e2e682df5a5\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"ab25a9d4-78ec-4cd2-a4b5-7d8ddaa5b040\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Fire / EMS Activity\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167},{\"address\":\"2301 W Irving Park Rd, Chicago, Illinois, 60618\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745858064000},\"cityCode\":\"us-il-chicago\",\"cs\":1745854464000,\"hasVod\":false,\"key\":\"-OOx1Nq05hV3mhI20M0W\",\"level\":0,\"location\":\"2301 W Irving Park Rd\",\"latitude\":41.953991,\"longitude\":-87.686257,\"neighborhood\":\"\",\"raw\":\"Man Harassing Customers Outside Walgreens at 2301 W Irving Park Rd, Chicago, Illinois, 60618\",\"ll\":[41.953991,-87.686257],\"rawLocation\":\"2301 W Irving Park Rd, Chicago, Illinois, 60618\",\"title\":\"Man Harassing Customers Outside Walgreens\",\"transcriber\":\"bot\",\"ts\":1745854500000,\"police\":\"CPD N Zn 2 (Dist 19)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOx1Nq05hV3mhI20M0W.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOx1Nq05hV3mhI20M0W-homescreen.png\",\"updates\":{\"-OOx1F--b8LcCCefpI05\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 2301 W Irving Park Rd.\",\"ts\":1745854463999,\"type\":\"ROOT\",\"displayLocation\":\"2301 W Irving Park Rd\"},\"-OOx1NqJeiOCoBSfWvqZ\":{\"text\":\"Police are responding to a report of a man harassing customers outside Walgreens.\",\"ts\":1745854464000,\"type\":\"TEXT\",\"displayLocation\":\"2301 W Irving Park Rd\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37355/1745854464746-9a6b2cf6-0a41-4286-bbf9-a97d167caef3.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37355/1745854464746-9a6b2cf6-0a41-4286-bbf9-a97d167caef3-waveform.png\",\"duration\":8766,\"source\":\"CPD Zn 2\",\"transcription\":{\"text\":\"Bending in 19, I've got a disturbance at the Walgreens on Irving, 2301 West Irving Park. Male panhandler out front harassing customers.\"},\"channelId\":\"BC-37355\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"ec57d9be-6463-40c5-ba94-454d145c8ede\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"9fc5e883-6dd0-4335-8e82-39f784c5f24a\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"6e37862b-2ed4-42de-8b49-971a6b638b5e\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Harassment\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.3417},{\"address\":\"1539 E 54th St, Chicago, Illinois, 60615\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745856042000},\"cityCode\":\"us-il-chicago\",\"cs\":1745852442000,\"hasVod\":false,\"key\":\"-OOwuatAKVnnUYjsU1JL\",\"level\":1,\"location\":\"1539 E 54th St\",\"latitude\":41.798067,\"longitude\":-87.587616,\"neighborhood\":\"\",\"raw\":\"Man Pushed Woman at Walgreens at 1539 E 54th St, Chicago, Illinois, 60615\",\"ll\":[41.798067,-87.587616],\"rawLocation\":\"1539 E 54th St, Chicago, Illinois, 60615\",\"title\":\"Man Pushed Woman at Walgreens\",\"transcriber\":\"bot\",\"ts\":1745852460000,\"police\":\"CPD S Zn 5 (Dist 2)\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOwuatAKVnnUYjsU1JL.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOwuatAKVnnUYjsU1JL-homescreen.png\",\"updates\":{\"-OOwuXLFvtPGZfkXtnPZ\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 1539 E 54th St.\",\"ts\":1745852441999,\"type\":\"ROOT\",\"displayLocation\":\"1539 E 54th St\"},\"-OOwuatX_e9JFWL0TzDZ\":{\"text\":\"Police are responding to a report of a man who pushed a woman at Walgreens.\",\"ts\":1745852442000,\"type\":\"TEXT\",\"displayLocation\":\"1539 E 54th St\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37360/1745852442785-85e14193-cbf4-42b5-8287-599da19b36a9.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/788df13425dffae780f3c3645f2ed800/BC-37360/1745852442785-85e14193-cbf4-42b5-8287-599da19b36a9-waveform.png\",\"duration\":17365,\"source\":\"CPD Zn 5/7\",\"transcription\":{\"text\":\"Who? Can you go speak to, well, I don't know who. It was a battery just occurred, 1539 East 54th Street, the wall brings. Caller states a male black pushed her and she doesn't know him. Can somebody flag you down because I don't have a name. No, ma'am.\"},\"channelId\":\"BC-37360\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-il-chicago-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"9816f4ee-4dc4-476c-b270-ce7c4720f94e\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"dafbf81e-80a0-40da-ac1e-432e7b30ca2d\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"c26264dc-06e6-44cc-83b2-ac5784ba1d9b\",\"type\":\"web\",\"url\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\",\"title\":\"POSSIBLE INFORMATION DELAY\",\"rank\":2,\"template\":{\"name\":\"scratchpad\",\"gcsUrl\":\"https://storage.googleapis.com/incident-templates-staging/modules/scratchpad/index.html?jsonUrl=jsons/chicago-blanket-warning.json\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Assault / Fight\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.341685},{\"address\":\"2 N Main St, Memphis, Tennessee, 38103\",\"broadcastRules\":{\"distanceMeters\":805,\"deadline\":1745855219000},\"cityCode\":\"us-tn-memphis\",\"cs\":1745851619000,\"hasVod\":false,\"key\":\"-OOwrcLqLi3jHO1kmEEW\",\"level\":1,\"location\":\"2 N Main St\",\"latitude\":35.145415,\"longitude\":-90.052689,\"neighborhood\":\"\",\"raw\":\"Report of Man Set Fire Behind Walgreens at 2 N Main St, Memphis, Tennessee, 38103\",\"ll\":[35.145415,-90.052689],\"rawLocation\":\"2 N Main St, Memphis, Tennessee, 38103\",\"title\":\"Report of Man Set Fire Behind Walgreens\",\"transcriber\":\"bot\",\"ts\":1745851680000,\"police\":\"MPD North Main\",\"shareImageText\":\"\",\"shareMap\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOwrcLqLi3jHO1kmEEW.png\",\"homescreenMapThumbnail\":\"https://storage.googleapis.com/citizen-notif-attachment/-OOwrcLqLi3jHO1kmEEW-homescreen.png\",\"updates\":{\"-OOwrOPsRvJ9wh0kmtGp\":{\"text\":\"A 911 caller has reported an unconfirmed incident at 2 N Main St.\",\"ts\":1745851618999,\"type\":\"ROOT\",\"displayLocation\":\"2 N Main St\"},\"-OOwrcM71HHN7f5gegHp\":{\"text\":\"Police have received a report of a man who set a fire in the rear of Walgreens.\",\"ts\":1745851619000,\"type\":\"TEXT\",\"displayLocation\":\"2 N Main St\",\"radioClips\":[{\"audioFileUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/7d9c751baf4e15bf864d6b0a5aa902a0/US-TN-MEMPHIS/9FD-29/1745851619000-e1c9ec6e-cdc9-49f6-bc53-97e5dd95851d.aac\",\"waveformImageUrl\":\"https://storage.googleapis.com/citizen-production/waveguide_archive/7d9c751baf4e15bf864d6b0a5aa902a0/US-TN-MEMPHIS/9FD-29/1745851619000-e1c9ec6e-cdc9-49f6-bc53-97e5dd95851d-waveform.png\",\"duration\":23040,\"source\":\"North Main Dispatch\",\"transcription\":{\"text\":\"Cars broadcast for 673 Bravo, responsible for an arson occurred in the rear of 2 North Main Street at Walgreens. Possibly male, White, wearing all black clothing, black socks, white flip-flops or sandals, gray face mask. Occurred between 1257 and 1258 hours on today's date. End of broadcast at 947, WPAJ 81.\"},\"channelId\":\"US-TN-MEMPHIS/9FD-29\"}]}},\"nearbyThreshold\":400,\"recentThreshold\":1800,\"recencyThreshold\":7200,\"twitterHandle\":\"@CitizenApp\",\"placeholderImageURL\":\"https://storage.googleapis.com/citizen-assets/placeholders/us-tn-memphis-2x.png\",\"facepile\":null,\"severity\":\"grey\",\"source\":\"911\",\"chatBlocked\":false,\"closed\":false,\"modules\":[{\"id\":\"af6afe6e-1b86-4ec4-b723-dfd1bfc52383\",\"type\":\"nib\",\"title\":\"Citizen Summary\",\"rank\":0,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}},{\"id\":\"46f592c7-faae-41df-8477-3a88dc636276\",\"type\":\"updates\",\"title\":\"Updates\",\"rank\":1,\"template\":{\"name\":\"\",\"gcsUrl\":\"\"}}],\"videoPreviewFeatured\":false,\"isGoodNews\":false,\"magicMomentsTag\":null,\"displayStyle\":\"tray\",\"categories\":[\"Fire\"],\"incidentSettings\":{\"displayStyle\":\"tray\",\"mapVisibility\":\"default\"},\"confirmed\":false,\"unverifiedIGLIncident\":false,\"isPaywalled\":false,\"incidentScore\":0.34167}]"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 10743,
+            "_error": null,
+            "_fetchedViaServiceWorker": false
+          },
+          "serverIPAddress": "34.120.170.164",
+          "startedDateTime": "2025-04-29T03:01:46.203Z",
+          "time": 73.76199999998789,
+          "timings": {
+            "blocked": 3.0829999998421993,
+            "dns": -1,
+            "ssl": -1,
+            "connect": -1,
+            "send": 0.788,
+            "wait": 68.67499999957782,
+            "receive": 1.216000000567874,
+            "_blocked_queueing": 2.403999999842199,
+            "_workerStart": -1,
+            "_workerReady": -1,
+            "_workerFetchStart": -1,
+            "_workerRespondWithSettled": -1
+          }
+        }
+      ]
+    }
+  }
