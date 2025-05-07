@@ -4,7 +4,7 @@ import path from 'path';
 import { spawn } from 'child_process';
 
 // Path to the latest GDELT data
-const LATEST_DATA_PATH = path.join(process.cwd(), 'public', 'data', 'gdelt_walgreens_latest.json');
+const LATEST_DATA_PATH = path.join(process.cwd(), 'public', 'data', 'gdelt_walgreens_incidents.json');
 // Path to the Python script
 const PYTHON_SCRIPT = path.join(process.cwd(), 'scripts', 'fetch_gdelt_walgreens_incidents.py');
 

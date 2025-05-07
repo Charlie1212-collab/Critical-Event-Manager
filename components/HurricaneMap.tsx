@@ -201,11 +201,15 @@ export default function HurricaneMap({
       {/* Add the ruler/measurement control */}
       <MapRulerControl
         position="topright"
-        primaryLengthUnit="miles"
-        secondaryLengthUnit="kilometers"
+        primaryLengthUnit="nautical-miles"
+        secondaryLengthUnit="miles"
         primaryAreaUnit="sqmiles"
-        activeColor="#4D90FE"
-        completedColor="#63B5F8"
+        secondaryAreaUnit="sqkilometers"
+        theme="dark"
+        customColors={{
+          measureLine: "#5DADE2",
+          measureArea: "#58D68D"
+        }}
       />
 
       {hurricanes.map(hurricane => (
